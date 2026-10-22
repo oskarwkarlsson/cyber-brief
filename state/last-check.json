@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-22T18:40:00+02:00",
+ "last_check": "2026-10-23T00:40:00+02:00",
  "last_daily": "2026-10-22T06:39:00+02:00",
  "seen": [
   "CVE-2026-109618",
@@ -31,6 +31,14 @@
   "Columbia SC cyberattack",
   "MythicRatatoskr Sandworm UAC-0099",
   "AdFection MEPs",
-  "Meta 25B New Mexico"
+  "Meta 25B New Mexico",
+  "CVE-2026-114625",
+  "Arista VeloCloud VCO zero-day Oct 2026",
+  "Capcom CAPCOM ID breach",
+  "KSMBD ZDI-CAN-33774",
+  "KSMBD ZDI-CAN-33549",
+  "Toronto Crime Stoppers",
+  "Unit42 AI site builder phishing",
+  "eMudhra exits TLS business"
  ]
 }
