@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-22T12:40:00+02:00",
+ "last_check": "2026-10-22T18:40:00+02:00",
  "last_daily": "2026-10-22T06:39:00+02:00",
  "seen": [
   "CVE-2026-109618",
@@ -24,6 +24,13 @@
   "Node.js Brotli Oct 2026",
   "QPACK HTTP/3 FoxIO",
   "CoinDCX zachxbt 15.8M",
-  "UAE agentic AI gov services"
+  "UAE agentic AI gov services",
+  "Railway env vars breach",
+  "OpenCode MCP OAuth PowerShell flaw",
+  "Wiz ARTEX Storm-0940 expansion",
+  "Columbia SC cyberattack",
+  "MythicRatatoskr Sandworm UAC-0099",
+  "AdFection MEPs",
+  "Meta 25B New Mexico"
  ]
 }
