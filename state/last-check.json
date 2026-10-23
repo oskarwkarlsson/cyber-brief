@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-23T18:35:00+02:00",
+  "last_check": "2026-10-24T00:30:00+02:00",
   "last_daily": "2026-10-23T06:35:01+02:00",
   "seen": [
     "CVE-2026-109618",
@@ -56,6 +56,12 @@
     "HPE ArubaOS AOS 8 max-severity Oct 2026",
     "CVE-2026-115560",
     "k0t Group-IB NyxLab edge campaign",
-    "UK undersea cable sentencing"
+    "UK undersea cable sentencing",
+    "CVE-2026-110447",
+    "BlackX bootkit",
+    "Phantom INC Gentlemen AI agents SOCRadar",
+    "CVE-2026-30612 Time4Popcorn",
+    "Ruby Onigmo regex fixes Oct 23",
+    "FCC Huawei surveillance chips"
   ]
 }
