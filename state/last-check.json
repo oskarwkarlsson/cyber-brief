@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-23T12:35:00+02:00",
+  "last_check": "2026-10-23T18:35:00+02:00",
   "last_daily": "2026-10-23T06:35:01+02:00",
   "seen": [
     "CVE-2026-109618",
@@ -52,6 +52,10 @@
     "Node2Shell CVE-2026-111497 Imperva RCE",
     "Prince of Persia Infy US C2",
     "x402 SDK V12 spending limit",
-    "Atlassian 75 third-party patches Oct 2026"
+    "Atlassian 75 third-party patches Oct 2026",
+    "HPE ArubaOS AOS 8 max-severity Oct 2026",
+    "CVE-2026-115560",
+    "k0t Group-IB NyxLab edge campaign",
+    "UK undersea cable sentencing"
   ]
 }
