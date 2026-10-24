@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-24T00:30:00+02:00",
+  "last_check": "2026-10-24T06:30:00+02:00",
   "last_daily": "2026-10-23T06:35:01+02:00",
   "seen": [
     "CVE-2026-109618",
@@ -62,6 +62,8 @@
     "Phantom INC Gentlemen AI agents SOCRadar",
     "CVE-2026-30612 Time4Popcorn",
     "Ruby Onigmo regex fixes Oct 23",
-    "FCC Huawei surveillance chips"
+    "FCC Huawei surveillance chips",
+    "Trail of Bits PHP2Shell production exploit",
+    "FBI contractor NDI leak arrest Oct 24"
   ]
 }
