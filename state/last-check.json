@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-24T18:33:00+02:00",
+  "last_check": "2026-10-25T00:36:00+02:00",
   "last_daily": "2026-10-23T06:35:01+02:00",
   "seen": [
     "CVE-2026-109618",
@@ -71,6 +71,8 @@
     "LiteLLM root cause leaked master key Oct 24",
     "CISA PHP2Shell SIGMA update Oct 24",
     "Wired PHP meltdown AI exploitability",
-    "Google Gmail Photos AI search ads"
+    "Google Gmail Photos AI search ads",
+    "Qilin Castle Howard Estate claim",
+    "Lamashtu Vins Viallet claim"
   ]
 }
