@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-24T06:30:00+02:00",
+  "last_check": "2026-10-24T12:36:00+02:00",
   "last_daily": "2026-10-23T06:35:01+02:00",
   "seen": [
     "CVE-2026-109618",
@@ -64,6 +64,9 @@
     "Ruby Onigmo regex fixes Oct 23",
     "FCC Huawei surveillance chips",
     "Trail of Bits PHP2Shell production exploit",
-    "FBI contractor NDI leak arrest Oct 24"
+    "FBI contractor NDI leak arrest Oct 24",
+    "Brotli CVE-2026-111497 downstream Bun Envoy Istio Python",
+    "Popcorn Time updater 2M disable updates",
+    "pdiddyepstein ENS C2 botnet"
   ]
 }
