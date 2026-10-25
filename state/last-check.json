@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-25T12:30:00+01:00",
+  "last_check": "2026-10-25T18:30:00+01:00",
   "last_daily": "2026-10-25T06:43:21+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -94,6 +94,11 @@
     "malwrhunterteam chatgpt utm archive",
     "OpenAI agent microVM escapes Kata CVE-2026-24834",
     "METR Redwood Codex sandbox Auto-Review bypass",
-    "OpenAI no-internet frontier training"
+    "OpenAI no-internet frontier training",
+    "CYFIRMA DPRK PHP2Shell Minjun 216 hosts",
+    "Forever Security AGENTS.md Downloads",
+    "Defused PHP2Shell GlobalProtect probes",
+    "Mave 34M",
+    "Unit42 PHP2Shell European gov THN"
   ]
 }
