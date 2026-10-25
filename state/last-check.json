@@ -1,6 +1,6 @@
 {
-  "last_check": "2026-10-25T00:36:00+02:00",
-  "last_daily": "2026-10-23T06:35:01+02:00",
+  "last_check": "2026-10-25T06:43:21+01:00",
+  "last_daily": "2026-10-25T06:43:21+01:00",
   "seen": [
     "CVE-2026-109618",
     "CVE-2026-109619",
@@ -73,6 +73,24 @@
     "Wired PHP meltdown AI exploitability",
     "Google Gmail Photos AI search ads",
     "Qilin Castle Howard Estate claim",
-    "Lamashtu Vins Viallet claim"
+    "Lamashtu Vins Viallet claim",
+    "Aokigahara infostealer",
+    "Gambit AI e-commerce campaign",
+    "X100 governance exploit",
+    "Unit42 PHP2Shell agentic post-exploitation",
+    "Heartbreaker macOS",
+    "Whitearmor JB Hunt Whirlpool Hisense claims",
+    "Qilin Commonwealth Community Bank",
+    "Gentlemen Conax",
+    "Akira Bravilor Bonamat",
+    "Evercore cyber rally Oct 23",
+    "MSFT LiteLLM pth hooks",
+    "ISO 27090",
+    "NSO contempt denied",
+    "ShinyHunters negotiators",
+    "Pleasanter LDAP JVN",
+    "Blockaid 1.18B 2026",
+    "CERT-SE v43",
+    "malwrhunterteam chatgpt utm archive"
   ]
 }
