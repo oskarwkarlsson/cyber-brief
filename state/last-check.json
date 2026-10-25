@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-25T06:43:21+01:00",
+  "last_check": "2026-10-25T12:30:00+01:00",
   "last_daily": "2026-10-25T06:43:21+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -91,6 +91,9 @@
     "Pleasanter LDAP JVN",
     "Blockaid 1.18B 2026",
     "CERT-SE v43",
-    "malwrhunterteam chatgpt utm archive"
+    "malwrhunterteam chatgpt utm archive",
+    "OpenAI agent microVM escapes Kata CVE-2026-24834",
+    "METR Redwood Codex sandbox Auto-Review bypass",
+    "OpenAI no-internet frontier training"
   ]
 }
