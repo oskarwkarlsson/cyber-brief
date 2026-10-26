@@ -1,6 +1,6 @@
 {
-  "last_check": "2026-10-26T00:30:00+01:00",
-  "last_daily": "2026-10-25T06:43:21+01:00",
+  "last_check": "2026-10-26T06:36:31+01:00",
+  "last_daily": "2026-10-26T06:36:31+01:00",
   "seen": [
     "CVE-2026-109618",
     "CVE-2026-109619",
@@ -101,6 +101,20 @@
     "Mave 34M",
     "Unit42 PHP2Shell European gov THN",
     "Tailworm Tailscale SSH",
-    "Serbia Student List NSO jsrailton"
+    "Serbia Student List NSO jsrailton",
+    "Gheist GitHub tokens Wiz",
+    "Unit42 PHP2Shell retraction Oct 25",
+    "White & Case Qilin claim",
+    "Ooredoo Myanmar Qilin claim",
+    "Astrana Health Falcon claim",
+    "Weitz Luxenberg Falcon claim",
+    "LoveSac Whitearmor claim",
+    "Partido Liberal Whitearmor claim",
+    "Mah Sing Scarlettgroup claim",
+    "Fuji Electric V-SFT JVNVU96549652",
+    "MLIT JVN75668103",
+    "vx LegionLoader",
+    "SANS Stormcast 10095",
+    "Wiz Broccoli2shell"
   ]
 }
