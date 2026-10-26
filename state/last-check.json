@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-26T06:36:31+01:00",
+  "last_check": "2026-10-26T12:31:36+01:00",
   "last_daily": "2026-10-26T06:36:31+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -115,6 +115,14 @@
     "MLIT JVN75668103",
     "vx LegionLoader",
     "SANS Stormcast 10095",
-    "Wiz Broccoli2shell"
+    "Wiz Broccoli2shell",
+    "PHP2Shell confirmed RCE Karimi honeypot",
+    "ZDI-CAN-33367 Linux LPE public root exploit",
+    "Huntress M365 token spray 79 orgs",
+    "Brotli JFrog FFmpeg ClickHouse Arrow file paths",
+    "uCreator Android spyware",
+    "Trojanized PeaZip Listenmaa",
+    "Popcorn Time 3 unsinkholed domains",
+    "Mythos 5 AISI July attack"
   ]
 }
