@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-26T12:31:36+01:00",
+  "last_check": "2026-10-26T18:30:00+01:00",
   "last_daily": "2026-10-26T06:36:31+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -123,6 +123,24 @@
     "uCreator Android spyware",
     "Trojanized PeaZip Listenmaa",
     "Popcorn Time 3 unsinkholed domains",
-    "Mythos 5 AISI July attack"
+    "Mythos 5 AISI July attack",
+    "Dahua Easy4IP CERT-UA Oct 2026",
+    "CVE-2026-115889",
+    "CVE-2026-115893",
+    "Genesys LMS CRM breach",
+    "Unit42 Hermes DeepSeek BUGSTER",
+    "dotnet OOB Brotli Oct 25",
+    "CVE-2026-70197 refix",
+    "CVE-2026-114148",
+    "Wiz Pwn Request reckoning",
+    "Talos 25 platforms abuse",
+    "Xint OpenAI compaction",
+    "X100 1.8M mixer",
+    "MIM wind-down Rekt",
+    "CISA 2030 strategy",
+    "NCSC patch wave guidance",
+    "DarkSword kit domains malwrhunterteam",
+    "Industrial vendors PHP2Shell",
+    "Dutch extradition Cambodia scam"
   ]
 }
