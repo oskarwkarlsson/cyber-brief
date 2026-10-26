@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-26T18:30:00+01:00",
+  "last_check": "2026-10-27T00:30:00+01:00",
   "last_daily": "2026-10-26T06:36:31+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -141,6 +141,11 @@
     "NCSC patch wave guidance",
     "DarkSword kit domains malwrhunterteam",
     "Industrial vendors PHP2Shell",
-    "Dutch extradition Cambodia scam"
+    "Dutch extradition Cambodia scam",
+    "CVE-2026-102785 YOOtheme Pro",
+    "University of Copenhagen breach",
+    "DreamHost password resets",
+    "Korea ARTEX ex-pentester arrests",
+    "Texas sues OpenAI"
   ]
 }
