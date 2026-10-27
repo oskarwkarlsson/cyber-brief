@@ -1,6 +1,6 @@
 {
-  "last_check": "2026-10-27T00:30:00+01:00",
-  "last_daily": "2026-10-26T06:36:31+01:00",
+  "last_check": "2026-10-27T06:39:18+01:00",
+  "last_daily": "2026-10-27T06:39:18+01:00",
   "seen": [
     "CVE-2026-109618",
     "CVE-2026-109619",
@@ -146,6 +146,22 @@
     "University of Copenhagen breach",
     "DreamHost password resets",
     "Korea ARTEX ex-pentester arrests",
-    "Texas sues OpenAI"
+    "Texas sues OpenAI",
+    "PHP2Shell KEV add Oct 26",
+    "UNM Health cyber incident Oct 26",
+    "Cloudflare Workers AI GLM-5.3 KV cache",
+    "Apple patches Oct 26 2026",
+    "PHP Windows Brotli rebuild 8.5.12-1",
+    "Arctic Wolf Teams IT support pattern",
+    "Sansec 953 Magento stores",
+    "Dutch NFC relay arrests",
+    "Zheng Zhao extradition",
+    "Chainalysis MENA 2026",
+    "FISA secret ruling Wired",
+    "JPCERT AT-2026-0034 Brotli",
+    "Anthropic IPO filing",
+    "SANS Stormcast 10152",
+    "CrowdStrike PHP2Shell AI-found",
+    "c2_agent.pdb malwrhunterteam"
   ]
 }
