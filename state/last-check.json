@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-28T06:30:00+01:00",
+  "last_check": "2026-10-28T12:30:00+01:00",
   "last_daily": "2026-10-28T06:31:56+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -201,6 +201,19 @@
     "CrowdStrike Kurtz Mad Money",
     "JPCERT weekly 2026-10-28",
     "Apple CoreGraphics iOS 18 backport",
-    "eMudhra Windows OOB root distrust"
+    "eMudhra Windows OOB root distrust",
+    "CVE-2026-101767 Oracle EBS probing Defused",
+    "Tailscale 1.104.4 Tailworm fix",
+    "Anthropic FRT five exploit chains Oct 27",
+    "GMO bounty leak site takedown trading accounts",
+    "Adobe Campaign Classic APSB26-162",
+    "CVE-2026-48360 Adobe Connect",
+    "Previdian Brotli honeypot attempt",
+    "ZDI PeopleSoft CVE-2026-35273 three flaws",
+    "Skyw4lker device code phishing",
+    "Wiz PHP2Shell attempts no success",
+    "Infisical 40M Series B",
+    "Wired ICE surveillance",
+    "malwrhunterteam Coruna domain"
   ]
 }
