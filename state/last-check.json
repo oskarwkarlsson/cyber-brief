@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-28T18:35:00+01:00",
+  "last_check": "2026-10-29T00:30:00+01:00",
   "last_daily": "2026-10-28T06:31:56+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -223,6 +223,14 @@
     "Belarus proxies Record Oct 28",
     "UK software liability budget",
     "malwrhunterteam Nocturne panel",
-    "CERT-SE Brotli notice"
+    "CERT-SE Brotli notice",
+    "CVE-2026-41709",
+    "Volt Typhoon Silent Train Lumen",
+    "DHS Icepick DDoSecrets 41k",
+    "JAL Amadeus 92k breach",
+    "Treasury DPRK IT worker Russia sanctions Oct 28",
+    "installgarphenos fake GrapheneOS",
+    "noyb Scale AI",
+    "West Virginia Daniels law struck"
   ]
 }
