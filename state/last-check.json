@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-28T12:30:00+01:00",
+  "last_check": "2026-10-28T18:35:00+01:00",
   "last_daily": "2026-10-28T06:31:56+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -214,6 +214,15 @@
     "Wiz PHP2Shell attempts no success",
     "Infisical 40M Series B",
     "Wired ICE surveillance",
-    "malwrhunterteam Coruna domain"
+    "malwrhunterteam Coruna domain",
+    "Dream PHP2Shell Fragnesia 25 firewalls US gov",
+    "CVE-2026-97631 EDK II PXE",
+    "CVE-2026-46300 Fragnesia",
+    "Moldova AGE breach 750k",
+    "Cequence fake AI bot scanner",
+    "Belarus proxies Record Oct 28",
+    "UK software liability budget",
+    "malwrhunterteam Nocturne panel",
+    "CERT-SE Brotli notice"
   ]
 }
