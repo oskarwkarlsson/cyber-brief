@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-10-29T12:35:00+01:00",
+  "last_check": "2026-10-29T18:30:00+01:00",
   "last_daily": "2026-10-29T06:35:00+01:00",
   "seen": [
     "CVE-2026-109618",
@@ -253,6 +253,23 @@
     "Poker MeshAgent ACR Wired",
     "Symantec AI relay Codex Claude sandbox",
     "GitHub npm firewall preview",
-    "malwrhunterteam netpatch.msi Azure blob"
+    "malwrhunterteam netpatch.msi Azure blob",
+    "CVE-2026-98432",
+    "Telegram Android MediaState NebuSec",
+    "Veeam Oct 29 critical M365 cross-tenant",
+    "Juniper SSR 18 vulns Oct 29",
+    "Belgium MyMinfin cyberattack",
+    "BAE BNC no data extracted",
+    "UNM Hospital restored Oct 29",
+    "Socket 319 Chrome extensions 13.4M",
+    "Gitee 26400 credentials",
+    "Wiz agentic attacks blog",
+    "Gemini 4 Carbon",
+    "Talos IR Q3 2026",
+    "Cloudflare DDoS Q3 2026",
+    "MSFT DPRK AI",
+    "AXIS zachxbt",
+    "FTC personalized pricing",
+    "CISA ICSA-26-302"
   ]
 }
