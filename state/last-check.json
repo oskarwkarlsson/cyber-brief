@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-30T18:35:00+01:00",
+ "last_check": "2026-10-31T00:35:00+01:00",
  "last_daily": "2026-10-30T06:45:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -297,6 +297,12 @@
   "Apple threat notifications Oct 30",
   "CrowdStrike four AI-agent adversaries",
   "CISA Installed Base Program",
-  "MSFT Teams Quick Assist Oct 30"
+  "MSFT Teams Quick Assist Oct 30",
+  "Revolve saved card breach 8-K Oct 30",
+  "Unit42 Zecurit RMM phishing",
+  "Wired Claude extension malware flaw",
+  "Chainalysis DPRK 89% 2026",
+  "DOJ Character.AI sale",
+  "MSRC PHP2Shell Brotli eMudhra guidance"
  ]
 }
