@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-30T06:45:00+01:00",
+ "last_check": "2026-10-30T12:40:00+01:00",
  "last_daily": "2026-10-30T06:45:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -280,6 +280,13 @@
   "Fortinet Q3 selloff Oct 29",
   "GreyNoise PHP2Shell six successful",
   "Risky SNAKEOILERS24PT2",
-  "Microsoft DPRK AI tradecraft"
+  "Microsoft DPRK AI tradecraft",
+  "CVE-2026-118539 Drupal Commerce exploited",
+  "Claude Code 2.1.313 Cursor marketplace backdoor",
+  "CVE-2026-111585 TeamViewer",
+  "Poryadok cyberattack",
+  "Syrian Electronic Army AP sentencing",
+  "Go MPTCP GODEBUG stopgap",
+  "Chainalysis Binance automated laundering"
  ]
 }
