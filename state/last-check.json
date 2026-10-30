@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-30T12:40:00+01:00",
+ "last_check": "2026-10-30T18:35:00+01:00",
  "last_daily": "2026-10-30T06:45:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -287,6 +287,16 @@
   "Poryadok cyberattack",
   "Syrian Electronic Army AP sentencing",
   "Go MPTCP GODEBUG stopgap",
-  "Chainalysis Binance automated laundering"
+  "Chainalysis Binance automated laundering",
+  "CVE-2026-118527",
+  "CVE-2026-111357",
+  "WordPress 7.1.4 upgrade-window RCE",
+  "Trezor CryptoBilis implant",
+  "Florida financial aid breach 4.9M",
+  "NetamLoader",
+  "Apple threat notifications Oct 30",
+  "CrowdStrike four AI-agent adversaries",
+  "CISA Installed Base Program",
+  "MSFT Teams Quick Assist Oct 30"
  ]
 }
