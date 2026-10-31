@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-31T06:40:00+01:00",
+ "last_check": "2026-10-31T12:38:00+01:00",
  "last_daily": "2026-10-30T06:45:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -306,6 +306,9 @@
   "MSRC PHP2Shell Brotli eMudhra guidance",
   "Wordfence WP 7.1.4 18500 attempts Oct 31",
   "Binance TraderTraitor SecurityWeek Oct 31",
-  "MSFT Claude Code extension confirmation Oct 31"
+  "MSFT Claude Code extension confirmation Oct 31",
+  "Ivanti three-flaw chain THN Oct 31",
+  "Chainalysis Binance DeFi stash Tron Oct 31",
+  "NCSC patch wave frontier AI blog Oct 31"
  ]
 }
