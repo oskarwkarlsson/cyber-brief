@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-31T18:35:00+01:00",
+ "last_check": "2026-11-01T00:30:00+01:00",
  "last_daily": "2026-10-30T06:45:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -313,6 +313,10 @@
   "Chainalysis agentic breach Oct 31",
   "VOLTA-AUTODOXER Talos",
   "CVE-2026-58882 SMS of Death PoC",
-  "Vapor Panda ARTEX 140 targets THN"
+  "Vapor Panda ARTEX 140 targets THN",
+  "Northflank breach Oct 30",
+  "Wiz Black October nine AI platforms",
+  "THORChain reorg Binance laundering delay",
+  "Claude Code 2.1.312 Cursor"
  ]
 }
