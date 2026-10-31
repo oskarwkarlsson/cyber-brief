@@ -1,5 +1,5 @@
 {
- "last_check": "2026-10-31T12:38:00+01:00",
+ "last_check": "2026-10-31T18:35:00+01:00",
  "last_daily": "2026-10-30T06:45:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -309,6 +309,10 @@
   "MSFT Claude Code extension confirmation Oct 31",
   "Ivanti three-flaw chain THN Oct 31",
   "Chainalysis Binance DeFi stash Tron Oct 31",
-  "NCSC patch wave frontier AI blog Oct 31"
+  "NCSC patch wave frontier AI blog Oct 31",
+  "Chainalysis agentic breach Oct 31",
+  "VOLTA-AUTODOXER Talos",
+  "CVE-2026-58882 SMS of Death PoC",
+  "Vapor Panda ARTEX 140 targets THN"
  ]
 }
