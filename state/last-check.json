@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-01T00:30:00+01:00",
- "last_daily": "2026-10-30T06:45:00+01:00",
+ "last_check": "2026-11-01T06:30:00+01:00",
+ "last_daily": "2026-11-01T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -317,6 +317,13 @@
   "Northflank breach Oct 30",
   "Wiz Black October nine AI platforms",
   "THORChain reorg Binance laundering delay",
-  "Claude Code 2.1.312 Cursor"
+  "Claude Code 2.1.312 Cursor",
+  "ChatGPT shared link MathLive Parameter",
+  "Cloudflare eMudhra 160 forged certs",
+  "MSFT help desk AD CS ESC1 ESC8",
+  "Skansen Liseberg Visit breach",
+  "Norway NSM cyber risk high",
+  "GCHQ storage devices watchdog",
+  "Wired Binance 20 minutes"
  ]
 }
