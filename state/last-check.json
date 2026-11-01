@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-01T12:30:00+01:00",
+ "last_check": "2026-11-01T18:30:00+01:00",
  "last_daily": "2026-11-01T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -328,6 +328,7 @@
   "CVE-2026-112816",
   "FBI TraderTraitor Binance confirm 2.85B frozen THN",
   "Northstar Security 7M",
-  "Troy Hunt weekly Nov 1"
+  "Troy Hunt weekly Nov 1",
+  "Chainalysis Binance Solana laundering Nov 1"
  ]
 }
