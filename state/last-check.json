@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-02T06:30:00+01:00",
+ "last_check": "2026-11-02T12:30:00+01:00",
  "last_daily": "2026-11-02T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -335,6 +335,11 @@
   "Alpine GitLab rebuild Nov 1",
   "Binance laundering TRON to Solana",
   "HN Binance 2.85B frozen claim",
-  "Northstar 7M"
+  "Northstar 7M",
+  "CL-UNK-1211 SysGoRAT Unit42 Oct 15 report",
+  "Chainalysis breach SecurityWeek Nov 2",
+  "Ivanti ICS two zero-days patched BleepingComputer Nov 2",
+  "FBI 600 addresses Binance SecurityWeek Nov 2",
+  "THN Teams IT support AD CS Nov 2"
  ]
 }
