@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-02T12:30:00+01:00",
+ "last_check": "2026-11-02T18:30:00+01:00",
  "last_daily": "2026-11-02T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -340,6 +340,23 @@
   "Chainalysis breach SecurityWeek Nov 2",
   "Ivanti ICS two zero-days patched BleepingComputer Nov 2",
   "FBI 600 addresses Binance SecurityWeek Nov 2",
-  "THN Teams IT support AD CS Nov 2"
+  "THN Teams IT support AD CS Nov 2",
+  "Supermarket freezer second wave Nov 2",
+  "BTCPay hot wallet thefts 2.4.1",
+  "CVE-2026-93680",
+  "CVE-2026-110186",
+  "Langflow 1.13.0 IBM bulletin",
+  "XCPE Videostrong botnet takedown",
+  "Rosstat Cyber Partisans Silent Crow",
+  "Air Alert app Hitcore Corp",
+  "DarkBlinders Dream GCC",
+  "Spiegel Merz Apple spyware",
+  "PapRAT Bitter",
+  "GitLab 1000 unpatched Shadowserver",
+  "Project Zero Brotli 565308158",
+  "Polymarket 3.9M refund DebugBear DNS",
+  "Google 250k root-in-cloud",
+  "SecurityWeek M&A October 37",
+  "Pall Mall spyware code Paris"
  ]
 }
