@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-02T18:30:00+01:00",
+ "last_check": "2026-11-03T00:30:00+01:00",
  "last_daily": "2026-11-02T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -357,6 +357,12 @@
   "Polymarket 3.9M refund DebugBear DNS",
   "Google 250k root-in-cloud",
   "SecurityWeek M&A October 37",
-  "Pall Mall spyware code Paris"
+  "Pall Mall spyware code Paris",
+  "Mercado Bitcoin 46M Nov 2",
+  "Vapor Panda ARTEX 200 orgs CrowdStrike Nov 2",
+  "DIVD ARTEX attribution",
+  "BYOD Michigan State claim",
+  "Abrigo Sageworks outage",
+  "ClickFix Panel 2.0"
  ]
 }
