@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-03T06:30:00+01:00",
+ "last_check": "2026-11-03T12:30:00+01:00",
  "last_daily": "2026-11-03T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -374,6 +374,12 @@
   "Unit42 ARTEX intrusion attempts",
   "Krebs XCPE proxies",
   "Troy Hunt breach PII journalism thread",
-  "Cyber stocks selloff Nov 2 Check Point miss"
+  "Cyber stocks selloff Nov 2 Check Point miss",
+  "Gorbag ESET BeautyStealer",
+  "Harvard HIBP 851k",
+  "Fridge attacks 100 stores SecurityWeek",
+  "NATO Crossed Swords AI agents",
+  "Ubuntu MPTCP test patches",
+  "malwrhunterteam Azure blob codewatch.bat"
  ]
 }
