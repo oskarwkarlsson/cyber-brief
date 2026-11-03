@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-03T12:30:00+01:00",
+ "last_check": "2026-11-03T18:30:00+01:00",
  "last_daily": "2026-11-03T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -380,6 +380,16 @@
   "Fridge attacks 100 stores SecurityWeek",
   "NATO Crossed Swords AI agents",
   "Ubuntu MPTCP test patches",
-  "malwrhunterteam Azure blob codewatch.bat"
+  "malwrhunterteam Azure blob codewatch.bat",
+  "CVE-2026-58115 Node-RED exploited VulnCheck",
+  "CVE-2026-116606",
+  "CVE-2026-111560",
+  "Binance post-mortem fake AI tool June",
+  "3AM UK school estate Bitdefender agentic",
+  "Frontline Education 1.3M",
+  "VasyGrek Fluffy Wolf arrests",
+  "Europol 100 servers investment scam Cyprus Israel",
+  "CrowdStrike Fiddler Dreadnode 495M",
+  "Wiz Root Cause LiteLLM podcast"
  ]
 }
