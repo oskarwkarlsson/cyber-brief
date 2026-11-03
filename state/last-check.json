@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-03T18:30:00+01:00",
+ "last_check": "2026-11-04T00:30:00+01:00",
  "last_daily": "2026-11-03T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -390,6 +390,13 @@
   "VasyGrek Fluffy Wolf arrests",
   "Europol 100 servers investment scam Cyprus Israel",
   "CrowdStrike Fiddler Dreadnode 495M",
-  "Wiz Root Cause LiteLLM podcast"
+  "Wiz Root Cause LiteLLM podcast",
+  "CVE-2026-119977 KEV Nov 3",
+  "cPGuard update channel compromise",
+  "WorkOS ARTEX breach",
+  "Google LLMjacking UNC6993 jet-night",
+  "MSFT fake-download cracked software Nov 3",
+  "German lawmakers Apple warnings Record",
+  "iCollections fake macOS malwrhunterteam"
  ]
 }
