@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-03T00:30:00+01:00",
- "last_daily": "2026-11-02T06:30:00+01:00",
+ "last_check": "2026-11-03T06:30:00+01:00",
+ "last_daily": "2026-11-03T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -363,6 +363,17 @@
   "DIVD ARTEX attribution",
   "BYOD Michigan State claim",
   "Abrigo Sageworks outage",
-  "ClickFix Panel 2.0"
+  "ClickFix Panel 2.0",
+  "Synology C3RB3R DSM Nov 2",
+  "GOLD OGRE Aur0ra Sophos AI agents",
+  "BSI Apple threat notifications Bundestag",
+  "Revolve 179259 notices",
+  "Microsoft 0.5% CVEs exploited analysis",
+  "NCSC State of the Cyber Nation 2026",
+  "Mercado Bitcoin 49M Chainalysis 10M frozen",
+  "Unit42 ARTEX intrusion attempts",
+  "Krebs XCPE proxies",
+  "Troy Hunt breach PII journalism thread",
+  "Cyber stocks selloff Nov 2 Check Point miss"
  ]
 }
