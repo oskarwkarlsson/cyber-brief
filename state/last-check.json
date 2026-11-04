@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-04T18:35:00+01:00",
+ "last_check": "2026-11-05T00:30:00+01:00",
  "last_daily": "2026-11-04T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -428,6 +428,15 @@
   "Cloudflare personal agents",
   "VerifiedIDA",
   "Rails ImageMagick THN lead Nov 4",
-  "Xen cross-VM THN lead Nov 4"
+  "Xen cross-VM THN lead Nov 4",
+  "Credit Mutuel Arkea 133M heist",
+  "CVE-2026-107441",
+  "Zyxel GS1900 Kapibala",
+  "Amadeus Asian airlines breach",
+  "CVE-2024-27834",
+  "DreamHost File Manager breach",
+  "Vercel session cookie protection",
+  "malwrhunterteam Poland Iran nuclear lure",
+  "Unit42 Brazil betting typosquats"
  ]
 }
