@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-04T00:30:00+01:00",
- "last_daily": "2026-11-03T06:30:00+01:00",
+ "last_check": "2026-11-04T06:35:00+01:00",
+ "last_daily": "2026-11-04T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -397,6 +397,19 @@
   "Google LLMjacking UNC6993 jet-night",
   "MSFT fake-download cracked software Nov 3",
   "German lawmakers Apple warnings Record",
-  "iCollections fake macOS malwrhunterteam"
+  "iCollections fake macOS malwrhunterteam",
+  "Chainstack breach ARTEX Nov 3",
+  "mSecure suspicious activity Nov 3",
+  "POEA Philippines 69GB Hunt.io",
+  "Check Point Haiou prompt adware",
+  "Cloudflare Zero Wire",
+  "Ballistic Ventures 490M",
+  "Chainalysis DPRK fake interview playbook",
+  "CrowdStrike confirms Fiddler Dreadnode",
+  "Copeland XWEB UK meat suppliers",
+  "CISA midterms Incident Coordination Group",
+  "Risky Business 858",
+  "Darknet Diaries 182 Blackshades",
+  "TomHegel Validin ARTEX feed"
  ]
 }
