@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-04T06:35:00+01:00",
+ "last_check": "2026-11-04T12:35:00+01:00",
  "last_daily": "2026-11-04T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -410,6 +410,10 @@
   "CISA midterms Incident Coordination Group",
   "Risky Business 858",
   "Darknet Diaries 182 Blackshades",
-  "TomHegel Validin ARTEX feed"
+  "TomHegel Validin ARTEX feed",
+  "APT29 Sekoia mobile watering hole Plerdy",
+  "Chrome 157 seven critical",
+  "NK missiles Kim Yo Jong Binance denial",
+  "Meta Muse bug bounty 1.2M"
  ]
 }
