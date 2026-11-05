@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-05T00:30:00+01:00",
- "last_daily": "2026-11-04T06:30:00+01:00",
+ "last_check": "2026-11-05T06:30:00+01:00",
+ "last_daily": "2026-11-05T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -437,6 +437,17 @@
   "DreamHost File Manager breach",
   "Vercel session cookie protection",
   "malwrhunterteam Poland Iran nuclear lure",
-  "Unit42 Brazil betting typosquats"
+  "Unit42 Brazil betting typosquats",
+  "GHSA-f3w6-w445-fwh9 Rails Active Storage",
+  "XSA-523 CVE-2026-102703",
+  "CVE-2026-102704",
+  "SlippyNunchucks Sogou CVE-2026-120422",
+  "OpenAI 948 Linux LPE pipeline",
+  "White House residential proxies Layer3",
+  "SmartLoader fake AI agent repos fr0gger",
+  "RomulusLoader ClickFix Unit42 Nov 5",
+  "Mandiant LLMjacking playbook",
+  "JPCERT weekly 2026-11-05",
+  "Sysdig AI agent runtime"
  ]
 }
