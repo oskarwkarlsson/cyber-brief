@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-05T18:35:00+01:00",
+ "last_check": "2026-11-06T00:30:00+01:00",
  "last_daily": "2026-11-05T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -464,6 +464,8 @@
   "Bank phishing fake suspended pages",
   "CISA cold chain fact sheet",
   "CISA PQC vendor readiness",
-  "malwrhunterteam Notepad++ Azure Outflank"
+  "malwrhunterteam Notepad++ Azure Outflank",
+  "Queens Public Library ransomware",
+  "Push Kali365 VoidProxy fake AI events"
  ]
 }
