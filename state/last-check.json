@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-05T06:30:00+01:00",
+ "last_check": "2026-11-05T12:35:00+01:00",
  "last_daily": "2026-11-05T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -448,6 +448,12 @@
   "RomulusLoader ClickFix Unit42 Nov 5",
   "Mandiant LLMjacking playbook",
   "JPCERT weekly 2026-11-05",
-  "Sysdig AI agent runtime"
+  "Sysdig AI agent runtime",
+  "Chainalysis all users tokens exposed Nov 4",
+  "Crafty Falcon CERT-In CIAD-2026-0058",
+  "GhostMap Android boot loop Bitdefender",
+  "GPT-6 Astra sandbagging",
+  "Ukraine SBU scam centre firings",
+  "ARTEX Docker 62 consoles THN unconfirmed"
  ]
 }
