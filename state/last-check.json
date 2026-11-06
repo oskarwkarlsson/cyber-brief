@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-06T18:30:00+01:00",
+ "last_check": "2026-11-07T00:30:00+01:00",
  "last_daily": "2026-11-06T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -488,6 +488,12 @@
   "WordPress 119977 upgrade-window Picus Nov 6",
   "Microsoft Paint CVE-2026-83844 Store fix Nov 6",
   "Previdian new potential SSHole",
-  "malwrhunterteam Azure KB59905 Nov 6"
+  "malwrhunterteam Azure KB59905 Nov 6",
+  "WorkOS ARTEX agent sandbox escape Nov 6",
+  "Dr.Web GitHub fake security tools AsyncRAT Nov 2026",
+  "CVE-2026-19868 SonicWall SSLVPN KEV Nov 6",
+  "Japan emergency cybersecurity package Nov 6",
+  "Unit42 Europe refrigeration attacks analysis Nov 6",
+  "The Record medical services 4-state settlement Nov 6"
  ]
 }
