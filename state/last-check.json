@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-06T00:30:00+01:00",
- "last_daily": "2026-11-05T06:30:00+01:00",
+ "last_check": "2026-11-06T06:30:00+01:00",
+ "last_daily": "2026-11-06T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -466,6 +466,20 @@
   "CISA PQC vendor readiness",
   "malwrhunterteam Notepad++ Azure Outflank",
   "Queens Public Library ransomware",
-  "Push Kali365 VoidProxy fake AI events"
+  "Push Kali365 VoidProxy fake AI events",
+  "Apache OFBiz 24.09.08",
+  "zlib 1.4 security fixes",
+  "Apache Sling Engine 3.0.4",
+  "AI CEO impersonation 129M SDNY",
+  "Truffle Secrets Revocation Program",
+  "Prince Group sanctions Nov 5",
+  "California AB1709 Meta TikTok Google suit",
+  "Gov DNS typos SH Consulting Dark Reading",
+  "MsftSecIntel agentic AI GitHub secrets",
+  "Unit42 phishing canvas SVG runtime forms",
+  "Cyber stocks selloff Nov 5 OKTA CRWD",
+  "CPython sandbox escape oss-sec not CVE",
+  "PushSecurity new potential",
+  "trufflesec new potential"
  ]
 }
