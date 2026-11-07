@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-07T00:30:00+01:00",
+ "last_check": "2026-11-07T06:30:00+01:00",
  "last_daily": "2026-11-06T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -494,6 +494,7 @@
   "CVE-2026-19868 SonicWall SSLVPN KEV Nov 6",
   "Japan emergency cybersecurity package Nov 6",
   "Unit42 Europe refrigeration attacks analysis Nov 6",
-  "The Record medical services 4-state settlement Nov 6"
+  "The Record medical services 4-state settlement Nov 6",
+  "Storm-3358 ARTEX financial sector Nov 6"
  ]
 }
