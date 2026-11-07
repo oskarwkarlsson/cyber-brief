@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-07T12:30:00+01:00",
+ "last_check": "2026-11-07T18:30:00+01:00",
  "last_daily": "2026-11-06T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -498,6 +498,7 @@
   "Storm-3358 ARTEX financial sector Nov 6",
   "Claude Code settings.local.json Apiiro secrets Nov 7",
   "vx X AI persona IEX decimal IP campaign Nov 7",
-  "SecurityWeek SonicWall CVE-2026-19868 patch Nov 7"
+  "SecurityWeek SonicWall CVE-2026-19868 patch Nov 7",
+  "Credit Mutuel Arkea service provider BleepingComputer Nov 7"
  ]
 }
