@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-08T00:30:00+01:00",
- "last_daily": "2026-11-06T06:30:00+01:00",
+ "last_check": "2026-11-08T06:30:00+01:00",
+ "last_daily": "2026-11-08T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -499,6 +499,23 @@
   "Claude Code settings.local.json Apiiro secrets Nov 7",
   "vx X AI persona IEX decimal IP campaign Nov 7",
   "SecurityWeek SonicWall CVE-2026-19868 patch Nov 7",
-  "Credit Mutuel Arkea service provider BleepingComputer Nov 7"
+  "Credit Mutuel Arkea service provider BleepingComputer Nov 7",
+  "SSHole Previdian 19 attempts 12 IPs Nov 8",
+  "SonicWall SNWLID-2026-0014 seven fixes",
+  "Onapsis Recorded Future SAP exploit window",
+  "Era Greeter Flowise CVE-2024-58351",
+  "CVE-2024-58351",
+  "Credit Mutuel Arkea service provider FAQ Nov 7",
+  "Ahold Delhaize Q4 loss estimate Nov 6",
+  "OpenAI model raw packets sandbox SecurityWeek Nov 6",
+  "Vals open-weight DeepSeek cyber benchmark Wired Nov 6",
+  "FBI agent Yaroch crypto theft plea",
+  "Perry Johnson 4-state settlement",
+  "CERT-SE veckobrev v45",
+  "PANW Clutch Security 500M talks",
+  "Cyber stocks Fri Nov 6 close NET Q3",
+  "malwrhunterteam SkyLawsInstaller dmg",
+  "ValsAI new potential",
+  "onapsis new potential"
  ]
 }
