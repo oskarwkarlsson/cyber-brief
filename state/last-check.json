@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-09T12:40:00+01:00",
+ "last_check": "2026-11-09T18:40:00+01:00",
  "last_daily": "2026-11-09T06:35:06+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -548,6 +548,13 @@
   "DeepMind RSA-1024 agents",
   "Alfozan OpenAI not guilty plea",
   "Abe RAT Squiblydoo",
-  "acronis TRU new potential"
+  "acronis TRU new potential",
+  "CVE-2026-102895",
+  "CVE-2026-116779",
+  "SSHole KEV add Nov 9",
+  "Qubole cross-account Wiz",
+  "Mittwald MCP breach",
+  "NoName057 doxxing EU officials Tajani",
+  "Ukraine call centers Germany 4.3M arrests"
  ]
 }
