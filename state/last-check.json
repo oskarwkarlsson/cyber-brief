@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-09T18:40:00+01:00",
+ "last_check": "2026-11-10T00:40:00+01:00",
  "last_daily": "2026-11-09T06:35:06+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -555,6 +555,17 @@
   "Qubole cross-account Wiz",
   "Mittwald MCP breach",
   "NoName057 doxxing EU officials Tajani",
-  "Ukraine call centers Germany 4.3M arrests"
+  "Ukraine call centers Germany 4.3M arrests",
+  "N-able N-central Able2Shell 30 zero-days",
+  "CVE-2026-123218",
+  "Aspera Faspex KEV Nov 9",
+  "France IRGC Shahid Kaveh fridge attribution",
+  "ARARA 77M SEGA 2.2M",
+  "Vanderbilt BYOD claim",
+  "York University forms breach",
+  "Office Party Claude skills LD_PRELOAD",
+  "SantaStealer RODECaster",
+  "CISA incident form update Nov 9",
+  "MSFT FORGE Rust std memory safety"
  ]
 }
