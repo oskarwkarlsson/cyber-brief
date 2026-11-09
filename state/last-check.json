@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-09T00:30:00+01:00",
- "last_daily": "2026-11-08T06:30:00+01:00",
+ "last_check": "2026-11-09T06:35:06+01:00",
+ "last_daily": "2026-11-09T06:35:06+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -521,6 +521,25 @@
   "Brava Security 15M stealth funding Nov 8",
   "Barracuda ADG Blatt claim",
   "Deadlock Fidex NoseTea Coopebis claims",
-  "Akira Calmont Wire claim"
+  "Akira Calmont Wire claim",
+  "N0n Expedia claim Nov 9",
+  "Web3Auth Keplr key exposure 5.6M sweep",
+  "Veeam KB4966 CVE-2026-98432",
+  "Brenner BBT SE Everest 812GB",
+  "LockBit5 Yatra claim",
+  "Panzer Grupa ABS claim",
+  "Siemens JVNVU98354779 update Nov 9",
+  "Zabbix agent CVE-2026-59781",
+  "ModSecurity CVE-2026-104269 RFC2231",
+  "N0n top poster Nov HackerFeeds",
+  "Initia AUSD mint halt",
+  "ACryptoS 665K shutdown",
+  "Mercado Bitcoin absorbs 40M",
+  "CISA 2015 reauth NDAA Dec 11",
+  "Thailand NSC monitoring Nov 9",
+  "Risky Biz Soap Box 112 Push",
+  "zachxbt Percolator TLDR rug",
+  "securityaffairs new potential",
+  "Bitquery_io new potential"
  ]
 }
