@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-10T00:40:00+01:00",
- "last_daily": "2026-11-09T06:35:06+01:00",
+ "last_check": "2026-11-10T06:38:38+01:00",
+ "last_daily": "2026-11-10T06:38:38+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -566,6 +566,19 @@
   "Office Party Claude skills LD_PRELOAD",
   "SantaStealer RODECaster",
   "CISA incident form update Nov 9",
-  "MSFT FORGE Rust std memory safety"
+  "MSFT FORGE Rust std memory safety",
+  "CVE-2026-125350",
+  "Chrome 157 XML zero-day Nov 9",
+  "Apple iOS 27.2.1 Brotli CVE-2026-111497 exploited",
+  "bee-js 13.3.0 Swarm Desktop 0.56.2 Ethersphere",
+  "Wyndham app hardcoded credential",
+  "Revolve 1.5M Indiana",
+  "MEXC FinCEN 9714 order",
+  "Binance ShinyHunters denial Nov 9",
+  "Chainalysis Canadian OTCs OFAC",
+  "Claude Code Apiiro Cherny response Ars",
+  "DeepMind Signal formal verification Wired",
+  "SocketSecurity new potential",
+  "N-able no hotfix Nov 10"
  ]
 }
