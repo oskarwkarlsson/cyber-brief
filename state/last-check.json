@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-10T06:38:38+01:00",
+ "last_check": "2026-11-10T12:40:00+01:00",
  "last_daily": "2026-11-10T06:38:38+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -579,6 +579,17 @@
   "Claude Code Apiiro Cherny response Ars",
   "DeepMind Signal formal verification Wired",
   "SocketSecurity new potential",
-  "N-able no hotfix Nov 10"
+  "N-able no hotfix Nov 10",
+  "Barracuda ESG exploited Nov 10",
+  "SAP Nov 2026 four CVSS 10",
+  "CVE-2026-120017",
+  "CVE-2026-76964",
+  "CVE-2026-89126",
+  "CVE-2026-89103",
+  "Turla Cereal ESET",
+  "Fireworks AI second breach Oct 24",
+  "CVE-2026-113961 iMessage group chat",
+  "malwrhunterteam GitHub auto-spread C2 avonlo",
+  "MEXC FinCEN receipt Nov 10"
  ]
 }
