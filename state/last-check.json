@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-10T18:40:00+01:00",
+ "last_check": "2026-11-11T00:40:00+01:00",
  "last_daily": "2026-11-10T06:38:38+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -603,6 +603,17 @@
   "Chainalysis AI distillation proxies",
   "Mythos 5.2",
   "Rekt Mercado Bitcoin 48.6M sweep",
-  "WhiteMatter 20M"
+  "WhiteMatter 20M",
+  "CVE-2026-124194",
+  "CVE-2026-20320",
+  "CVE-2026-111793",
+  "Patch Tuesday Nov 2026 1235",
+  "Nitori 37.6M breach",
+  "Railway 100k workspaces 740k AI fraud",
+  "Unit42 IDPI 26 trading domains",
+  "Storm-3350 Brazil MSFT",
+  "US Army member UK Russia spy arrest",
+  "Adobe 110 Nov 2026",
+  "Dark Reading ARTEX feature"
  ]
 }
