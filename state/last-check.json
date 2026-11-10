@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-10T12:40:00+01:00",
+ "last_check": "2026-11-10T18:40:00+01:00",
  "last_daily": "2026-11-10T06:38:38+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -590,6 +590,19 @@
   "Fireworks AI second breach Oct 24",
   "CVE-2026-113961 iMessage group chat",
   "malwrhunterteam GitHub auto-spread C2 avonlo",
-  "MEXC FinCEN receipt Nov 10"
+  "MEXC FinCEN receipt Nov 10",
+  "VSA-2026-062 Xen Orchestra exploited",
+  "worse_query iOS sandbox escape Binance",
+  "CopperDragon Sparrow Check Point",
+  "AhsayCBS Huntress follow-up Veeam",
+  "CVE-2026-105133",
+  "CVE-2026-105134",
+  "Blind Eagle court notices THN Nov 10",
+  "iVerify spyware report Nov 10",
+  "Losapio CISA nomination",
+  "Chainalysis AI distillation proxies",
+  "Mythos 5.2",
+  "Rekt Mercado Bitcoin 48.6M sweep",
+  "WhiteMatter 20M"
  ]
 }
