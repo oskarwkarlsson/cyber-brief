@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-11T06:40:00+01:00",
+ "last_check": "2026-11-11T12:40:00+01:00",
  "last_daily": "2026-11-11T06:40:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -627,6 +627,13 @@
   "N-able scanning no compromise Nov 10",
   "GHSecurityLab new potential",
   "controlplaneio new potential",
-  "Payload Podcast 013"
+  "Payload Podcast 013",
+  "Intel AMD Patch Tuesday Nov 2026 MigTD CVE-2026-61887",
+  "Siemens ICS Patch Tuesday Nov 2026",
+  "Dreeze 33M",
+  "malwrhunterteam freemeetly",
+  "malwrhunterteam DNS TXT top domains Nov 11",
+  "vx DPRK msc goop Nov 11",
+  "Microsoft Exchange sign-in fix Nov 11"
  ]
 }
