@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-11T12:40:00+01:00",
+ "last_check": "2026-11-11T18:30:00+01:00",
  "last_daily": "2026-11-11T06:40:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -634,6 +634,25 @@
   "malwrhunterteam freemeetly",
   "malwrhunterteam DNS TXT top domains Nov 11",
   "vx DPRK msc goop Nov 11",
-  "Microsoft Exchange sign-in fix Nov 11"
+  "Microsoft Exchange sign-in fix Nov 11",
+  "Maersk LF Logistics WhiteArmor 5M",
+  "AntiFox Arctic Wolf AWS",
+  "CVE-2026-121653",
+  "CVE-2026-121683",
+  "CVE-2026-108186",
+  "CVE-2026-108187",
+  "CVE-2026-102705 XenServer",
+  "Poland ePUAP attack",
+  "Cynet Qlik Sense CACTUS overlap",
+  "IRGC Europe attacks FaceTime indictment",
+  "MDASH FORGE 33 Linux CVEs",
+  "Commercial hacking guidelines 14 govs",
+  "NCSC Cyber Adversary Simulation",
+  "Bay 50M",
+  "Finite State 27M",
+  "N-able hotfixes Nov 11",
+  "Fortinet ~100 vulns Nov 2026",
+  "eMudhra 8 more CAs THN lead",
+  "Grok-built apps 35k THN lead"
  ]
 }
