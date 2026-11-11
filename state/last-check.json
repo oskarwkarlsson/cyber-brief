@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-11T00:40:00+01:00",
- "last_daily": "2026-11-10T06:38:38+01:00",
+ "last_check": "2026-11-11T06:40:00+01:00",
+ "last_daily": "2026-11-11T06:40:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -614,6 +614,19 @@
   "Storm-3350 Brazil MSFT",
   "US Army member UK Russia spy arrest",
   "Adobe 110 Nov 2026",
-  "Dark Reading ARTEX feature"
+  "Dark Reading ARTEX feature",
+  "CVE-2026-111760",
+  "CVE-2026-105437",
+  "Git 2.56.1 six CVEs",
+  "NEAR AI SGLang TEE breach",
+  "UK gov code ControlPlane Planning Inspectorate",
+  "MSFT sleeper agent neurons",
+  "Claude Code secrets leak Dark Reading",
+  "JPCERT incident report checklist",
+  "Benoit Sevens Claude Outlook",
+  "N-able scanning no compromise Nov 10",
+  "GHSecurityLab new potential",
+  "controlplaneio new potential",
+  "Payload Podcast 013"
  ]
 }
