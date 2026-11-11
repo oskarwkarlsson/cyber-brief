@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-11T18:30:00+01:00",
+ "last_check": "2026-11-12T00:30:00+01:00",
  "last_daily": "2026-11-11T06:40:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -653,6 +653,12 @@
   "N-able hotfixes Nov 11",
   "Fortinet ~100 vulns Nov 2026",
   "eMudhra 8 more CAs THN lead",
-  "Grok-built apps 35k THN lead"
+  "Grok-built apps 35k THN lead",
+  "ScreenConnect MSP Run Command campaign Huntress Nov 11",
+  "Notion Fireworks AI transcripts",
+  "Krebs Qilin Haise St Petersburg",
+  "Baker Tilly third-party breach",
+  "malwrhunterteam NonElevatedDll ASUS WebStorage",
+  "Italy school bomb threat emails"
  ]
 }
