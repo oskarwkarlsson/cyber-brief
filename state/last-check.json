@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-12T18:30:00+01:00",
+ "last_check": "2026-11-13T00:30:00+01:00",
  "last_daily": "2026-11-12T06:35:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -712,6 +712,17 @@
   "Daylight 80M",
   "MSFT model backdoor agents post",
   "malwrhunterteam Estonian firewood code signing",
-  "SecurityWeek Nvidia Huang post"
+  "SecurityWeek Nvidia Huang post",
+  "4EverAble2Shell exploited 21 servers Huntback XMRig",
+  "Binance 1.2B DOJ seizure",
+  "FaceStealer FBI disruption APT38",
+  "Luna Moth Copilot Graph token vishing ReliaQuest",
+  "Santos Port Authority ransomware",
+  "Microsoft 365 outage Nov 12",
+  "United Airlines AI agent block",
+  "Operation TorNado",
+  "CISA superintelligence tabletop",
+  "wfx-loot 1835 persistence Aikido",
+  "huntback new potential"
  ]
 }
