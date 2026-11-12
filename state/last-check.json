@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-12T12:30:00+01:00",
+ "last_check": "2026-11-12T18:30:00+01:00",
  "last_daily": "2026-11-12T06:35:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -688,6 +688,30 @@
   "INC Ransom Chicago History Museum claim",
   "SEIFZXRAT pharaohkit",
   "safedepio new potential",
-  "Dark Reading AI retailer attack 403"
+  "Dark Reading AI retailer attack 403",
+  "SignDrop CLFS Nightmare Eclipse",
+  "CVE-2026-123039",
+  "Check Point PHP2Shell TSGA destroy_v6",
+  "Cairn CL-STA-1238",
+  "Silent Lynx Hermes CloudSEK",
+  "ConnectWise RMM+ 400 environments",
+  "CVE-2026-120869",
+  "Citrix NetScaler Nov 2026 9.3 batch",
+  "CVE-2026-126325",
+  "PTC Windchill FlexPLM",
+  "Chrome Firefox 180 vulns Nov 12",
+  "Apify breach",
+  "Europe bomb hoax Taiwan university",
+  "Operation Endgame Gootloader CastleRAT StealC Nov 2026",
+  "Romania SRI Turla Cereal",
+  "TypoPrompting Island",
+  "Material Security Calendar session hijack",
+  "wfx Fly.io GitHub app tokens",
+  "CVE-2026-0004",
+  "AMD Turin TSA Google Cloud",
+  "Daylight 80M",
+  "MSFT model backdoor agents post",
+  "malwrhunterteam Estonian firewood code signing",
+  "SecurityWeek Nvidia Huang post"
  ]
 }
