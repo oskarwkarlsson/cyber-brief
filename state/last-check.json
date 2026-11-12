@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-12T06:35:00+01:00",
+ "last_check": "2026-11-12T12:30:00+01:00",
  "last_daily": "2026-11-12T06:35:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -673,6 +673,21 @@
   "NetAskari China AI diaspora Taiwan chips",
   "Claroc Grok apps 35578",
   "Risky Business 859",
-  "HuntressLabs new potential"
+  "HuntressLabs new potential",
+  "wfx GitHub Actions stealer Aikido SafeDep",
+  "4EverAble2Shell Agent2Shell N-central HF2",
+  "CVE-2026-90436 Axis N-central chain",
+  "CVE-2026-123710",
+  "Red Hat Quay key server",
+  "CVE-2026-118383",
+  "MongoDB replica set UAF",
+  "CVE-2026-123863",
+  "CVE-2026-123864",
+  "CVE-2026-123866",
+  "Node.js Nov 11 2026 16 flaws",
+  "INC Ransom Chicago History Museum claim",
+  "SEIFZXRAT pharaohkit",
+  "safedepio new potential",
+  "Dark Reading AI retailer attack 403"
  ]
 }
