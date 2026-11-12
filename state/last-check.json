@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-12T00:30:00+01:00",
- "last_daily": "2026-11-11T06:40:00+01:00",
+ "last_check": "2026-11-12T06:35:00+01:00",
+ "last_daily": "2026-11-12T06:35:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -659,6 +659,20 @@
   "Krebs Qilin Haise St Petersburg",
   "Baker Tilly third-party breach",
   "malwrhunterteam NonElevatedDll ASUS WebStorage",
-  "Italy school bomb threat emails"
+  "Italy school bomb threat emails",
+  "CVE-2026-119618",
+  "CVE-2026-106023",
+  "Apache httpd 2.4.71",
+  "SCKit ScreenConnect ConnectWise 5 extensions",
+  "ScreenConnect 288 endpoints 48 orgs",
+  "Unit42 ARTEX CyberStrikeAI exposed hosts",
+  "Unit42 Falcon C2 Antino",
+  "MSFT GSocket Linux persistence",
+  "Greeter Era Security Flowise CVE-2024-58351",
+  "Japan emergency cyber funding Nov 2026",
+  "NetAskari China AI diaspora Taiwan chips",
+  "Claroc Grok apps 35578",
+  "Risky Business 859",
+  "HuntressLabs new potential"
  ]
 }
