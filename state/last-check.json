@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-13T12:30:00+01:00",
+ "last_check": "2026-11-13T18:30:00+01:00",
  "last_daily": "2026-11-13T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -744,6 +744,18 @@
   "NCSC M365 outage phishing warning",
   "CERT-SE v46",
   "EneaAB new potential",
-  "Intraday 2026-11-13-1230"
+  "Intraday 2026-11-13-1230",
+  "Quantum Systems QBase update attack",
+  "TSMC cloud provider employee breach",
+  "ActiveCloud Belarus ransomware",
+  "Mior AMD SEV-SNP",
+  "Skyfall AMD SEV-SNP",
+  "PostgreSQL Nov 12 2026 53 CVEs",
+  "Gootloader 44 ransomware DOJ",
+  "Germany spy agencies hacking law",
+  "UK ICO record incidents",
+  "Microsoft Nov updates printing issues",
+  "Project Zero disclosure 2026",
+  "Intraday 2026-11-13-1830"
  ]
 }
