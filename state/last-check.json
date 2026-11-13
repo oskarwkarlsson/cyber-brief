@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-13T18:30:00+01:00",
+ "last_check": "2026-11-14T00:30:00+01:00",
  "last_daily": "2026-11-13T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -756,6 +756,17 @@
   "UK ICO record incidents",
   "Microsoft Nov updates printing issues",
   "Project Zero disclosure 2026",
-  "Intraday 2026-11-13-1830"
+  "Intraday 2026-11-13-1830",
+  "CVE-2026-114713",
+  "UnrealIRCd KEV Nov 13",
+  "Check Point CVE-2026-123039 KEV",
+  "FBI ARTEX flash alert Nov 13",
+  "Amazon MadPot ARTEX AI key theft",
+  "ARTEX KYC deepfake",
+  "ArcticRAT Zimperium",
+  "Osaka TKC Arara 1M",
+  "FAA ground stop Nov 13",
+  "M365 outage recovery Nov 13",
+  "Intraday 2026-11-14-0030"
  ]
 }
