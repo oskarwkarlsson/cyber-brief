@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-13T06:30:00+01:00",
+ "last_check": "2026-11-13T12:30:00+01:00",
  "last_daily": "2026-11-13T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -735,6 +735,15 @@
   "Siemens ICS advisories Nov 12 2026",
   "watchtowrcyber new potential",
   "elliptic new potential",
-  "Daily 2026-11-13"
+  "Daily 2026-11-13",
+  "SilentAir Enea",
+  "LIMINAL PANDA GTPDoor GTP-U",
+  "Check Point CVE-2026-123039 hotfix couple dozen",
+  "OpenAI Daybreak Defense Factory",
+  "Windows activation failures Nov 2026",
+  "NCSC M365 outage phishing warning",
+  "CERT-SE v46",
+  "EneaAB new potential",
+  "Intraday 2026-11-13-1230"
  ]
 }
