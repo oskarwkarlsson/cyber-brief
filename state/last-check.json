@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-14T00:30:00+01:00",
+ "last_check": "2026-11-14T06:30:00+01:00",
  "last_daily": "2026-11-13T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -767,6 +767,7 @@
   "Osaka TKC Arara 1M",
   "FAA ground stop Nov 13",
   "M365 outage recovery Nov 13",
-  "Intraday 2026-11-14-0030"
+  "Intraday 2026-11-14-0030",
+  "Check 2026-11-14-0630 quiet"
  ]
 }
