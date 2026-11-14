@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-14T12:30:00+01:00",
+ "last_check": "2026-11-14T18:30:00+01:00",
  "last_daily": "2026-11-13T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -772,6 +772,10 @@
   "MSFT M365 outage phishing EX1550543",
   "FAA FBI software update probe",
   "Apple Secure Exclaves",
-  "Intraday 2026-11-14-1230"
+  "Intraday 2026-11-14-1230",
+  "Cursor incident update Nov 13 Fireworks key agent traces",
+  "FaceStealer 400M BlueNoroff Arctic Wolf 677",
+  "Wired AI ransomware boom Nov 14",
+  "Intraday 2026-11-14-1830"
  ]
 }
