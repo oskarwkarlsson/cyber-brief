@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-15T00:30:00+01:00",
- "last_daily": "2026-11-13T06:30:00+01:00",
+ "last_check": "2026-11-15T06:30:00+01:00",
+ "last_daily": "2026-11-15T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -777,6 +777,15 @@
   "FaceStealer 400M BlueNoroff Arctic Wolf 677",
   "Wired AI ransomware boom Nov 14",
   "Intraday 2026-11-14-1830",
-  "Check 2026-11-15-0030 quiet"
+  "Check 2026-11-15-0030 quiet",
+  "Uber Fireworks driver licenses",
+  "UT Arlington breach confirmed",
+  "FAA ground stop L3Harris router cause",
+  "Cloudflare ARTEX 50 frameworks 30x",
+  "Cloudflare Spend Management",
+  "GhostFrame Settra Recorded Future",
+  "NYC surveillance pricing ban",
+  "Zimperium new potential",
+  "Daily 2026-11-15"
  ]
 }
