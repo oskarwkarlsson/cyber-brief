@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-16T18:30:00+01:00",
+ "last_check": "2026-11-17T00:30:00+01:00",
  "last_daily": "2026-11-16T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -825,6 +825,13 @@
   "Russia denies Romania",
   "Ofcom client-side scanning",
   "UK peers complacent",
-  "MS 365 outage months-old bug"
+  "MS 365 outage months-old bug",
+  "Intraday 2026-11-17-0030",
+  "Optimizely Project JS 1688360.cc 178 orgs",
+  "Trajectory Labs Gemini Epoch AI",
+  "California AG v OpenAI agents",
+  "Tinder DPC 11M",
+  "COLD RELIC Hungary sample",
+  "Kissmetrics StorifyMe minute-ly Hudson Rock"
  ]
 }
