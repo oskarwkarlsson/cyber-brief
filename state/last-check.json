@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-16T06:30:00+01:00",
+ "last_check": "2026-11-16T12:30:00+01:00",
  "last_daily": "2026-11-16T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -801,6 +801,16 @@
   "Wiz Zero Day Cloud teaser",
   "vx 100k malware sync",
   "Frenchbreaches new potential",
-  "malwaremustdie new potential"
+  "malwaremustdie new potential",
+  "Intraday 2026-11-16-1230",
+  "Copeland XWEB EVO VulnCheck 14 flaws CVE-2026-124014",
+  "CVE-2026-124010",
+  "Coles cyber incident Nov 16",
+  "SANSAR REF3364 Elastic",
+  "NoisyTCP CVE-2026-99288",
+  "Uber Fireworks 150k drivers",
+  "BO Team Log4Shell vCenter Kaspersky",
+  "Claude Fable 5.2",
+  "Cloudflare Kitesurf open source"
  ]
 }
