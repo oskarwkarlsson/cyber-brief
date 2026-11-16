@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-16T12:30:00+01:00",
+ "last_check": "2026-11-16T18:30:00+01:00",
  "last_daily": "2026-11-16T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -811,6 +811,20 @@
   "Uber Fireworks 150k drivers",
   "BO Team Log4Shell vCenter Kaspersky",
   "Claude Fable 5.2",
-  "Cloudflare Kitesurf open source"
+  "Cloudflare Kitesurf open source",
+  "Intraday 2026-11-16-1830",
+  "Barracuda ARTEX breach Nov 1-2",
+  "GTIG AI threat tracker Nov 16 patch diffing",
+  "Danfoss AK-SM800A six zero-days Midnight Blue",
+  "Telegram widgets WebRAT Kaspersky",
+  "Fandango skimmer Oct 8-11",
+  "Lithuanian Customs BAP breach",
+  "Retadup CoffeeLoader Kaspersky",
+  "EU sanctions NoName057(16) SDA Nov 16",
+  "Project Zero 60/30-day policy",
+  "Russia denies Romania",
+  "Ofcom client-side scanning",
+  "UK peers complacent",
+  "MS 365 outage months-old bug"
  ]
 }
