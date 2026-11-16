@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-16T00:30:00+01:00",
- "last_daily": "2026-11-15T06:30:00+01:00",
+ "last_check": "2026-11-16T06:30:00+01:00",
+ "last_daily": "2026-11-16T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -792,6 +792,15 @@
   "Italy Meta 805M Android gallery fine",
   "Pentagon CDAO Super Intelligence Office",
   "Check 2026-11-16-0030 quiet",
-  "HIBP Pwned Passwords 1B weekly requests"
+  "HIBP Pwned Passwords 1B weekly requests",
+  "Daily 2026-11-16",
+  "Maileva La Poste 22M",
+  "TSMC SmithBianl 46k auction",
+  "FBI ARTEX 1600 consoles ARTEX PRO",
+  "MalwareMustDie ARTEX detection pack",
+  "Wiz Zero Day Cloud teaser",
+  "vx 100k malware sync",
+  "Frenchbreaches new potential",
+  "malwaremustdie new potential"
  ]
 }
