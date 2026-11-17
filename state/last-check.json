@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-17T00:30:00+01:00",
- "last_daily": "2026-11-16T06:30:00+01:00",
+ "last_check": "2026-11-17T06:30:00+01:00",
+ "last_daily": "2026-11-17T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -832,6 +832,14 @@
   "California AG v OpenAI agents",
   "Tinder DPC 11M",
   "COLD RELIC Hungary sample",
-  "Kissmetrics StorifyMe minute-ly Hudson Rock"
+  "Kissmetrics StorifyMe minute-ly Hudson Rock",
+  "Daily 2026-11-17",
+  "Infoblox SharePoint migration vendor",
+  "N-central HF3 CVE-2026-129271-129287",
+  "Corma 1B Series A",
+  "JPM bank outage not cyber",
+  "MSFT M365 outage phishing analysis Nov 17",
+  "Unit42 PureLogs DLL sideload",
+  "Midnight Blue new potential"
  ]
 }
