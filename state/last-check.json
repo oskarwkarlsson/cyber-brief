@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-17T06:30:00+01:00",
+ "last_check": "2026-11-17T12:30:00+01:00",
  "last_daily": "2026-11-17T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -840,6 +840,14 @@
   "JPM bank outage not cyber",
   "MSFT M365 outage phishing analysis Nov 17",
   "Unit42 PureLogs DLL sideload",
-  "Midnight Blue new potential"
+  "Midnight Blue new potential",
+  "Intraday 2026-11-17-1230",
+  "Optimizely confirms Experimentation vulnerability fixed",
+  "8-Digits Team Khlynovskiy extradition",
+  "Pi-hole sparse disclosure notice",
+  "Peraire-Bueno cleared",
+  "malwrhunterteam Taiwan software hub Silver Fox",
+  "MopsStealer vx",
+  "McDonald's app abnormal push China unverified"
  ]
 }
