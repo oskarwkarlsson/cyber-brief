@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-18T00:30:00+01:00",
- "last_daily": "2026-11-17T06:30:00+01:00",
+ "last_check": "2026-11-18T06:30:00+01:00",
+ "last_daily": "2026-11-18T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -879,6 +879,18 @@
   "Mandiant CDN loaders defender actions",
   "Unit42 OPTIMJACK",
   "Calif new potential",
-  "ghostrat panel mht"
+  "ghostrat panel mht",
+  "Daily 2026-11-18",
+  "agent-framework PyPI 1.26.1 1.26.2",
+  "Equinor cyberattack Nov 17",
+  "TheMailer Varonis",
+  "CISA Java4Shell alert Nov 17",
+  "JPCERT Java4Shell CyberNewsFlash",
+  "CERT-SE phishing vigilance Nov 17",
+  "Cloudflare Quad9 France",
+  "Risky Business 860",
+  "KimZetter Thanksgiving warning",
+  "Varonis new potential",
+  "Aikido new potential"
  ]
 }
