@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-18T06:30:00+01:00",
+ "last_check": "2026-11-18T12:30:00+01:00",
  "last_daily": "2026-11-18T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -891,6 +891,14 @@
   "Risky Business 860",
   "KimZetter Thanksgiving warning",
   "Varonis new potential",
-  "Aikido new potential"
+  "Aikido new potential",
+  "Intraday 2026-11-18-1230",
+  "CVE-2026-129448",
+  "Apache Roller XML-RPC exploited",
+  "COLD RELIC Google Workspace second US org",
+  "Buchanan Scattered Spider 6 years",
+  "Oracle CSPU Nov 2026 62 critical",
+  "CVE-2026-115732 Puppet OpenVox PoC",
+  "Windows Server 2028"
  ]
 }
