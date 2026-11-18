@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-18T18:30:00+01:00",
+ "last_check": "2026-11-19T00:30:00+01:00",
  "last_daily": "2026-11-18T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -911,6 +911,18 @@
   "Kava BUSD 3.76M",
   "VeroSecurity 11M",
   "Microsoft Perception GA",
-  "Brazilian e-signature apps Dark Reading"
+  "Brazilian e-signature apps Dark Reading",
+  "Intraday 2026-11-19-0030",
+  "CVE-2026-40217",
+  "CVE-2026-90817",
+  "CVE-2024-10441",
+  "KEV Nov 18 four",
+  "CVE-2026-90436 KEV",
+  "Ukraine FBI 40.5M Chaos ransomware arrests",
+  "Wellington IT Irish credit unions",
+  "Coinbase Musk deepfake 4.7M",
+  "Lawmakers defensive AI cyber White House",
+  "Spirit Airlines data Google",
+  "vxunderground AI malware"
  ]
 }
