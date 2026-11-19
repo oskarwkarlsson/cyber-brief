@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-19T12:30:00+01:00",
+ "last_check": "2026-11-19T18:30:00+01:00",
  "last_daily": "2026-11-19T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -954,6 +954,18 @@
   "CVE-2026-76536",
   "NVIDIA investigating Gentlemen",
   "Cloudflare ARTEX Java4Shell same IP",
-  "THN database RCE PostgreSQL MySQL Oracle"
+  "THN database RCE PostgreSQL MySQL Oracle",
+  "Intraday 2026-11-19-1830",
+  "European Commission ARTEX attack",
+  "CVE-2026-76466 exploited F6",
+  "CVE-2026-123890",
+  "VMSA-2026-0009",
+  "CVE-2026-132165",
+  "CVE-2026-132166",
+  "Apple UK TCN IPT ruling",
+  "LoSapio CISA hearing",
+  "StepSecurity 20M",
+  "Snusbase problems",
+  "PHP 7 critical Nov 19"
  ]
 }
