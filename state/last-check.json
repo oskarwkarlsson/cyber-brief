@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-19T06:30:00+01:00",
+ "last_check": "2026-11-19T12:30:00+01:00",
  "last_daily": "2026-11-19T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -939,6 +939,21 @@
   "Igor D'iu Palantir",
   "CERT-SE Java4Shell Nov 18",
   "Eaton Zveare new potential",
-  "Censys new potential"
+  "Censys new potential",
+  "Intraday 2026-11-19-1230",
+  "Java4Shell exploitation attempts GreyNoise watchTowr Nov 19",
+  "Java4Shell Cisco Red Hat Elastic Atlassian advisories",
+  "NGINX2Root Rapid7 Censys PoC",
+  "CVE-2026-113425",
+  "CVE-2026-121810",
+  "CVE-2026-123634",
+  "N-able Mail Assure SpamExperts breach",
+  "Ruby 4.0.10 regex string RCE PoCs Nov 18",
+  "Splunk 140 flaws Nov 18",
+  "CVE-2026-76535",
+  "CVE-2026-76536",
+  "NVIDIA investigating Gentlemen",
+  "Cloudflare ARTEX Java4Shell same IP",
+  "THN database RCE PostgreSQL MySQL Oracle"
  ]
 }
