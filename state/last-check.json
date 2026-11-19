@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-19T18:30:00+01:00",
+ "last_check": "2026-11-20T00:30:00+01:00",
  "last_daily": "2026-11-19T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -966,6 +966,20 @@
   "LoSapio CISA hearing",
   "StepSecurity 20M",
   "Snusbase problems",
-  "PHP 7 critical Nov 19"
+  "PHP 7 critical Nov 19",
+  "Intraday 2026-11-20-0030",
+  "ARMORY CASTLE vCenter zero-day BONESAW",
+  "CVE-2026-123890 exploited",
+  "Skagerak Energi",
+  "TfL Oyster photocard 265k",
+  "SBC Medical 1.6M",
+  "CVE-2026-114202",
+  "CVE-2026-114204",
+  "CVE-2026-114205",
+  "phpAfterShell CVE-2026-126714",
+  "GTA VI Xbox leak vx",
+  "DOJ DHS scam unit",
+  "AI safety caucus",
+  "CrowdStrike backdoored open-weight models"
  ]
 }
