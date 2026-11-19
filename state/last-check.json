@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-19T00:30:00+01:00",
- "last_daily": "2026-11-18T06:30:00+01:00",
+ "last_check": "2026-11-19T06:30:00+01:00",
+ "last_daily": "2026-11-19T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -923,6 +923,22 @@
   "Coinbase Musk deepfake 4.7M",
   "Lawmakers defensive AI cyber White House",
   "Spirit Airlines data Google",
-  "vxunderground AI malware"
+  "vxunderground AI malware",
+  "Daily 2026-11-19",
+  "PHP critical release Nov 19",
+  "F5 BIG-IP six critical iRule Nov 18",
+  "CVE-2026-120292",
+  "CVE-2026-121805",
+  "CVE-2026-123637",
+  "CVE-2026-43613 TPM rollback TU Berlin",
+  "CreditNirvana 6.6M",
+  "EggStreme Bitdefender retool",
+  "TGR-STA-0049 KUKURAT PerfectPioneer",
+  "JPCERT Node-RED CVE-2026-58115 Japan",
+  "PANW Applied Compute 4.5B",
+  "Igor D'iu Palantir",
+  "CERT-SE Java4Shell Nov 18",
+  "Eaton Zveare new potential",
+  "Censys new potential"
  ]
 }
