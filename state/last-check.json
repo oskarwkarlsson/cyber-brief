@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-20T06:30:00+01:00",
+ "last_check": "2026-11-20T12:30:00+01:00",
  "last_daily": "2026-11-20T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -995,6 +995,18 @@
   "THN ThreatsDay BubbleLoader GPT-6.2",
   "GreyNoiseIO new potential",
   "Beaker Hoff new potential",
-  "FBI Operation Winter Shield"
+  "FBI Operation Winter Shield",
+  "Intraday 2026-11-20-1230",
+  "USDA security incident database reset Nov 19",
+  "N0n JPMorgan Visa Mastercard vendor confirmations",
+  "INC Ransom Boeing Sikorsky Aircraft Support claim",
+  "INC Ransom Eni claim",
+  "FastUnlock Narrator lock screen bypass",
+  "ROMULUS CNCMachineRMS Blackpoint",
+  "SonicWall Gen 6 no patches warning",
+  "Ruby2Shell CVE-2026-132825",
+  "N-able single web server credentials update",
+  "F5 BIG-IP emergency hotfixes Nov 20 BC",
+  "Handsome Boy Hacking Club FIFA claim"
  ]
 }
