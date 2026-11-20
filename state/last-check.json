@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-20T18:30:00+01:00",
+ "last_check": "2026-11-21T00:30:00+01:00",
  "last_daily": "2026-11-20T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1017,6 +1017,15 @@
   "Cairncross out",
   "NSA normal operations Nov 20",
   "Wellington IT ICO UK reports",
-  "Phala November incident"
+  "Phala November incident",
+  "Intraday 2026-11-21-0030",
+  "CVE-2025-42884",
+  "Amazon Cairn university medical imaging zero-day",
+  "Bell Canada agentic Maximo breach",
+  "West Virginia Legislature cyberattack",
+  "Container Store restored n0n",
+  "Unit42 BitB fake PDF RMM",
+  "House Chinese open-weight AI rebuke",
+  "malwrhunterteam GitHub API C2"
  ]
 }
