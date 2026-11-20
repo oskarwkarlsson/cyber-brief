@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-20T00:30:00+01:00",
- "last_daily": "2026-11-19T06:30:00+01:00",
+ "last_check": "2026-11-20T06:30:00+01:00",
+ "last_daily": "2026-11-20T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -980,6 +980,21 @@
   "GTA VI Xbox leak vx",
   "DOJ DHS scam unit",
   "AI safety caucus",
-  "CrowdStrike backdoored open-weight models"
+  "CrowdStrike backdoored open-weight models",
+  "Daily 2026-11-20",
+  "Cloudflare nginx2root deep dive Nov 20",
+  "JPCERT PHP alert update Nov 20",
+  "Qwen Cohere Alibaba exfil attempt Hoff",
+  "Chrome Mirror Dimension agents",
+  "CrowdStrike backdoored LoRA",
+  "OFAC Comancheros Villar crypto",
+  "CERT-SE Apache Axis NGINX Nov 19",
+  "PANW sector rally Nov 19",
+  "Black Hat GPUBreach",
+  "vx 2shell naming",
+  "THN ThreatsDay BubbleLoader GPT-6.2",
+  "GreyNoiseIO new potential",
+  "Beaker Hoff new potential",
+  "FBI Operation Winter Shield"
  ]
 }
