@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-21T06:30:00+01:00",
+ "last_check": "2026-11-21T12:30:00+01:00",
  "last_daily": "2026-11-20T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1029,6 +1029,14 @@
   "malwrhunterteam GitHub API C2",
   "Intraday 2026-11-21-0630",
   "FBI NCIC breach Nov 20",
-  "RansomwareHelp Palacio indictment"
+  "RansomwareHelp Palacio indictment",
+  "Intraday 2026-11-21-1230",
+  "CVE-2026-129975",
+  "GPGME double free",
+  "CVE-2026-133968",
+  "MONAI Label",
+  "Inception Lucid Motors claim",
+  "Eclipse Realta claim",
+  "Signal screenshot AI block"
  ]
 }
