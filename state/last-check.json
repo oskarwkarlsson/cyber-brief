@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-21T18:30:00+01:00",
+ "last_check": "2026-11-22T00:30:00+01:00",
  "last_daily": "2026-11-20T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1046,6 +1046,9 @@
   "INC Regions Behavioral Hospital claim",
   "Soulgroup US county claim",
   "Osiris Kang Chiao claim",
-  "Chainalysis AI distillation proxy crypto"
+  "Chainalysis AI distillation proxy crypto",
+  "Intraday 2026-11-22-0030",
+  "Entra Connect Health API flaw Nov 2026",
+  "Rackspace Spot breach Nov 17"
  ]
 }
