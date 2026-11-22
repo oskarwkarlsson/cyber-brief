@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-22T18:30:00+01:00",
+ "last_check": "2026-11-23T00:30:00+01:00",
  "last_daily": "2026-11-22T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1069,6 +1069,10 @@
   "Intraday 2026-11-22-1830",
   "Cleverbridge breach Nov 2026",
   "Signal Siri Gemini block",
-  "NSA CAC malware warning Nov 16"
+  "NSA CAC malware warning Nov 16",
+  "Intraday 2026-11-23-0030",
+  "GL.iNet GoodCloud exploitation Nov 2026",
+  "RemoteToHome GoodCloud AstroWarp injection",
+  "jsrailton prompt mining"
  ]
 }
