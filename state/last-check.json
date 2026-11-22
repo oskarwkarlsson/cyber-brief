@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-22T00:30:00+01:00",
- "last_daily": "2026-11-20T06:30:00+01:00",
+ "last_check": "2026-11-22T06:30:00+01:00",
+ "last_daily": "2026-11-22T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -1049,6 +1049,22 @@
   "Chainalysis AI distillation proxy crypto",
   "Intraday 2026-11-22-0030",
   "Entra Connect Health API flaw Nov 2026",
-  "Rackspace Spot breach Nov 17"
+  "Rackspace Spot breach Nov 17",
+  "Daily 2026-11-22",
+  "OpenRouter offboards 3 providers 125 ZDR endpoints",
+  "Together AI prompt leakage notice",
+  "Novita MiniMax notice",
+  "CVE-2026-125396",
+  "Upload2Shell Ghostscript pwn.ai",
+  "Unit42 Com vishing Vortex Cinder",
+  "CL-CRI-1264",
+  "CL-CRI-1274",
+  "Kirsten Davies National Cyber Director",
+  "Cabonline supplier breach",
+  "Equinor attack stopped Nov 20",
+  "NCIC AP source SecurityWeek",
+  "IntCyberDigest new potential",
+  "H4ckmanac new potential",
+  "Svensk cyber 2026"
  ]
 }
