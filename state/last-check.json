@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-23T00:30:00+01:00",
- "last_daily": "2026-11-22T06:30:00+01:00",
+ "last_check": "2026-11-23T06:30:00+01:00",
+ "last_daily": "2026-11-23T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -1073,6 +1073,20 @@
   "Intraday 2026-11-23-0030",
   "GL.iNet GoodCloud exploitation Nov 2026",
   "RemoteToHome GoodCloud AstroWarp injection",
-  "jsrailton prompt mining"
+  "jsrailton prompt mining",
+  "Daily 2026-11-23",
+  "Kepco 1.52M breach Nov 2026",
+  "Samsung Securities 8241 clients",
+  "Hyflock Samsung Group claim",
+  "Hyflock Fortune 500 top 30 claim",
+  "INC L&T Technology Services claim",
+  "INC persistent.com claim",
+  "Gentlemen Queens Public Library claim",
+  "Qilin Invicta Watch Group claim",
+  "Qilin Viapan claim",
+  "Black Hat Breaking AI Agents Official Workflows",
+  "Risky Soap Box 113",
+  "Yonhap new potential",
+  "DailySecu new potential"
  ]
 }
