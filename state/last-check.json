@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-23T06:30:00+01:00",
+ "last_check": "2026-11-23T12:30:00+01:00",
  "last_daily": "2026-11-23T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1087,6 +1087,13 @@
   "Black Hat Breaking AI Agents Official Workflows",
   "Risky Soap Box 113",
   "Yonhap new potential",
-  "DailySecu new potential"
+  "DailySecu new potential",
+  "Intraday 2026-11-23-1230",
+  "CVE-2026-131914",
+  "Idunno.AntiCsrf",
+  "CERT-In Nov 20 payment workflow advisory",
+  "CERT-In agentic offensive frameworks Nov 20",
+  "Forcepoint DLP KB5132043 printing",
+  "States sue SpaceX Grok deepfakes"
  ]
 }
