@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-23T12:30:00+01:00",
+ "last_check": "2026-11-23T18:30:00+01:00",
  "last_daily": "2026-11-23T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1094,6 +1094,20 @@
   "CERT-In Nov 20 payment workflow advisory",
   "CERT-In agentic offensive frameworks Nov 20",
   "Forcepoint DLP KB5132043 printing",
-  "States sue SpaceX Grok deepfakes"
+  "States sue SpaceX Grok deepfakes",
+  "Intraday 2026-11-23-1830",
+  "Azure APIM Classic secrets flaw Norway NSM",
+  "CVE-2026-134624",
+  "N-able Mail Assure SSRF patch Nov 22",
+  "Austrian Foreign Ministry website breach Nov 12-13",
+  "CVE-2026-84869",
+  "Huntress ScreenConnect technician exploitation Nov 16",
+  "CVE-2026-134814",
+  "binary-parser",
+  "GlobeTopper iQSTEL SEC",
+  "Lighter 10.39M nonce reuse",
+  "CrowdStrike Zscaler 43.9B",
+  "Davies intent to nominate Nov 23",
+  "malwrhunterteam Azure Service Bus malware"
  ]
 }
