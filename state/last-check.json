@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-23T18:30:00+01:00",
+ "last_check": "2026-11-24T00:30:00+01:00",
  "last_daily": "2026-11-23T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1108,6 +1108,14 @@
   "Lighter 10.39M nonce reuse",
   "CrowdStrike Zscaler 43.9B",
   "Davies intent to nominate Nov 23",
-  "malwrhunterteam Azure Service Bus malware"
+  "malwrhunterteam Azure Service Bus malware",
+  "Intraday 2026-11-24-0030",
+  "KEV CVE-2026-134624 Nov 23",
+  "KEV CVE-2026-133968 Nov 23",
+  "MONAI Label 0.8.6 fix",
+  "LaLiga fan platform breach Nov 14-16",
+  "Webworm SoftEther NtMonitor Rapid7",
+  "Unit42 Com legal-themed vishing Inception",
+  "Kurtaj release vx"
  ]
 }
