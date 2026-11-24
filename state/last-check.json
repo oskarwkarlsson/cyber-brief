@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-24T00:30:00+01:00",
- "last_daily": "2026-11-23T06:30:00+01:00",
+ "last_check": "2026-11-24T06:30:00+01:00",
+ "last_daily": "2026-11-24T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -1116,6 +1116,16 @@
   "LaLiga fan platform breach Nov 14-16",
   "Webworm SoftEther NtMonitor Rapid7",
   "Unit42 Com legal-themed vishing Inception",
-  "Kurtaj release vx"
+  "Kurtaj release vx",
+  "Daily 2026-11-24",
+  "Wiz Agentic Attacks In The Wild Nov 23 ARTEX-Harvester",
+  "Wiz twenty incidents 3x IR",
+  "Call center operator 8 years 30000",
+  "CRWD ZS deal close Nov 23",
+  "LiveOverflow libheif HEIF",
+  "Black Hat Teleport attack scenarios",
+  "SANS Giving AI Religion",
+  "NSM Norway new potential",
+  "Rapid7 Labs new potential"
  ]
 }
