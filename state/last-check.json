@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-24T18:30:00+01:00",
+ "last_check": "2026-11-25T00:30:00+01:00",
  "last_daily": "2026-11-24T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1156,6 +1156,20 @@
   "Forshaw .NET bit CVE-2026-108398",
   "Europol 57 streaming services",
   "malwrhunterteam Azure C2 CsAgent",
-  "GreyNoise new potential"
+  "GreyNoise new potential",
+  "Intraday 2026-11-25-0030",
+  "KEV CVE-2026-132165 Nov 24",
+  "KEV CVE-2026-132224 Nov 24",
+  "CVE-2026-132224",
+  "KEV CVE-2026-131914 Nov 24",
+  "Radware Cloud WAF API breach Nov 19",
+  "CIA unclassified OSINT system breach",
+  "myColorado app breach 150k",
+  "Turnitin incident Nov 24",
+  "Rackspace Spot shutdown Dec 8",
+  "ReversingLabs Inception domains",
+  "Unit42 OAuth prompt=none EXE",
+  "IDScan congressional letter",
+  "Dark Reading God Mode border flaws"
  ]
 }
