@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-24T06:30:00+01:00",
+ "last_check": "2026-11-24T12:30:00+01:00",
  "last_daily": "2026-11-24T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1126,6 +1126,17 @@
   "Black Hat Teleport attack scenarios",
   "SANS Giving AI Religion",
   "NSM Norway new potential",
-  "Rapid7 Labs new potential"
+  "Rapid7 Labs new potential",
+  "Intraday 2026-11-24-1230",
+  "Peninsula Energy Lance cyber incident Nov 2026",
+  "CVE-2026-82981",
+  "CVE-2026-93700",
+  "CVE-2026-82979",
+  "WHMCS Nov 23 2026 security update",
+  "Wired 3.5B exposed databases Fowler UpGuard",
+  "NCSC agentic offensive frameworks blog Nov 24",
+  "OpenAI Cisco Linux exploit tool",
+  "Elecbrakes Bluetooth trailer brakes",
+  "zachxbt ANSEM wallet selling"
  ]
 }
