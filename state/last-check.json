@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-24T12:30:00+01:00",
+ "last_check": "2026-11-24T18:30:00+01:00",
  "last_daily": "2026-11-24T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1137,6 +1137,25 @@
   "NCSC agentic offensive frameworks blog Nov 24",
   "OpenAI Cisco Linux exploit tool",
   "Elecbrakes Bluetooth trailer brakes",
-  "zachxbt ANSEM wallet selling"
+  "zachxbt ANSEM wallet selling",
+  "Intraday 2026-11-24-1830",
+  "GreyNoise GT13 Check Point SMS 22 orgs",
+  "CVE-2026-16232",
+  "CVE-2026-61500",
+  "CVE-2026-123903",
+  "CVE-2026-123910",
+  "CVE-2026-123911",
+  "CVE-2026-123912",
+  "VMware 23 flaws Nov 24",
+  "EU Academy data theft Nov 24",
+  "Volant Manticore KuboShell",
+  "McDonald's Japan app database breach Nov 2026",
+  "Carnegie Soapbox Engage",
+  "Okta O-UNC-053 INCEPTION",
+  "ShinyHunters return PGP Nov 23",
+  "Forshaw .NET bit CVE-2026-108398",
+  "Europol 57 streaming services",
+  "malwrhunterteam Azure C2 CsAgent",
+  "GreyNoise new potential"
  ]
 }
