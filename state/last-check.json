@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-25T06:30:00+01:00",
+ "last_check": "2026-11-25T12:30:00+01:00",
  "last_daily": "2026-11-25T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1183,6 +1183,17 @@
   "Eaton Zveare new potential",
   "Zveare border visa API flaws",
   "Kemp CPPA departure",
-  "CERT-SE CTF 2026 facit"
+  "CERT-SE CTF 2026 facit",
+  "Intraday 2026-11-25-1230",
+  "CVE-2026-129514",
+  "Hex.pm registry breach Nov 23",
+  "FinCEN cyber incident Nov 24",
+  "CIA Artex two other spy agencies NYT Nextgov",
+  "PAN-OS Fragnesia fixes Nov 24",
+  "Drupal exploited since Nov 19 19:00 UTC",
+  "CVE-2026-135202",
+  "WP Connect backdoored plugins",
+  "Project Zero Apple RawCamera ColorSync batch Nov 25",
+  "Microsoft auth issues Nov updates"
  ]
 }
