@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-25T12:30:00+01:00",
+ "last_check": "2026-11-25T18:30:00+01:00",
  "last_daily": "2026-11-25T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1194,6 +1194,22 @@
   "CVE-2026-135202",
   "WP Connect backdoored plugins",
   "Project Zero Apple RawCamera ColorSync batch Nov 25",
-  "Microsoft auth issues Nov updates"
+  "Microsoft auth issues Nov updates",
+  "Intraday 2026-11-25-1830",
+  "KEV CVE-2026-103406 Nov 25",
+  "CVE-2026-103406",
+  "GeoServer CVE-2026-120705 CVE-2026-129243 probes",
+  "CVE-2026-120705",
+  "CVE-2026-129243",
+  "Guadeloupe hospital ransomware",
+  "Bordeaux CHU INCa cyberattacks",
+  "NuGet .NET job assessment Socket",
+  "InfraTrust Nov report bundled components",
+  "Talos AI agent swarm Artex",
+  "DIVD full forensic report",
+  "zachxbt Dead TON Coinbase scams",
+  "Danfoss CISA advisory Nov 25",
+  "Australia online safety preempt harms",
+  "NCSC UK 337 incidents"
  ]
 }
