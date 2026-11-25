@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-25T18:30:00+01:00",
+ "last_check": "2026-11-26T00:30:00+01:00",
  "last_daily": "2026-11-25T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1210,6 +1210,25 @@
   "zachxbt Dead TON Coinbase scams",
   "Danfoss CISA advisory Nov 25",
   "Australia online safety preempt harms",
-  "NCSC UK 337 incidents"
+  "NCSC UK 337 incidents",
+  "Intraday 2026-11-26-0030",
+  "KEV Mitel MiCollab MISA-2026-0012 Nov 25",
+  "CVE-2026-133323",
+  "CVE-2026-133275",
+  "CVE-2026-133303",
+  "CVE-2026-133324",
+  "CVE-2026-133311",
+  "Accenture MiCollab pre-patch exploitation",
+  "KEV CVE-2026-133469 Nov 25",
+  "CVE-2026-133469",
+  "KEV Danfoss CVE-2023-25914 CVE-2023-25915 CVE-2025-41450 Nov 25",
+  "1Password GitHub employee breach Nov 25",
+  "PAN-OS Fragnesia exploited Nov 25",
+  "Microsoft Artex Salt Typhoon Crystal Typhoon Sleet",
+  "CSIRT Italia Swiss NCSC AI agent attacks",
+  "Wiz Artex Cairn intent IDs",
+  "FIFA confirms breach Nov 25",
+  "Palacio Escobar indictment Nov 25",
+  "Accenture APEX Labs new potential"
  ]
 }
