@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-25T00:30:00+01:00",
- "last_daily": "2026-11-24T06:30:00+01:00",
+ "last_check": "2026-11-25T06:30:00+01:00",
+ "last_daily": "2026-11-25T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -1170,6 +1170,19 @@
   "ReversingLabs Inception domains",
   "Unit42 OAuth prompt=none EXE",
   "IDScan congressional letter",
-  "Dark Reading God Mode border flaws"
+  "Dark Reading God Mode border flaws",
+  "Daily 2026-11-25",
+  "WSJ Iran 50 tanker hacks FortiBleed",
+  "Unit42 ClickFix Gateway Verification ACR Stealer",
+  "Anthropic EFS misuse safeguards",
+  "Maple 5.3M",
+  "RB861 AI routers",
+  "John Hammond Minecraft Security Chicken",
+  "SANS fireside day 2 Zero Prep",
+  "ReversingLabs new potential",
+  "Eaton Zveare new potential",
+  "Zveare border visa API flaws",
+  "Kemp CPPA departure",
+  "CERT-SE CTF 2026 facit"
  ]
 }
