@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-26T18:30:00+01:00",
+ "last_check": "2026-11-27T00:30:00+01:00",
  "last_daily": "2026-11-26T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1263,6 +1263,17 @@
   "PolinRider StepSecurity force-push PRs",
   "DOMDIFFER THN",
   "Talos agent swarms Artex Nov 26",
-  "FIFA SecurityWeek Nov 26"
+  "FIFA SecurityWeek Nov 26",
+  "Intraday 2026-11-27-0030 silent",
+  "THN ThreatsDay Nov 26",
+  "OpenAI GPT-6.2 Astra usage limits bug",
+  "malwrhunterteam amnesia panel"
+ ],
+ "pending_leads": [
+  "Symantec CyberPower PowerPanel Business DC abuse (security.com, Nov 18)",
+  "Forescout BankWeaver Temenos Quantum Fabric FabricShell FabricShadow (Nov 19)",
+  "Aikido DeepSite Hugging Face Spaces phishing 42 pages 28 brands",
+  "TrendAI BYOD ransomware group profile",
+  "Arctic Wolf Edgecution-like Teams wave Edge extension Python backdoor"
  ]
 }
