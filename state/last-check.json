@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-26T00:30:00+01:00",
- "last_daily": "2026-11-25T06:30:00+01:00",
+ "last_check": "2026-11-26T06:30:00+01:00",
+ "last_daily": "2026-11-26T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -1229,6 +1229,20 @@
   "Wiz Artex Cairn intent IDs",
   "FIFA confirms breach Nov 25",
   "Palacio Escobar indictment Nov 25",
-  "Accenture APEX Labs new potential"
+  "Accenture APEX Labs new potential",
+  "Daily 2026-11-26",
+  "Flight Centre hotel booking breach Nov 26",
+  "Bithumb Daou Office expanded Nov 25",
+  "Korea Investment Savings Bank 86611",
+  "Inception RBI claim",
+  "Inception denies ShinyHunters",
+  "AIR WebSec benchmark",
+  "Unit42 Vote to List drainers",
+  "Huawei convicted Nov 24",
+  "JPCERT weekly 2026-11-26 Node-RED",
+  "Wiz ADR",
+  "Black Hat Detection Engineering Beyond the Inbox",
+  "AIR new potential",
+  "CSA Labs new potential"
  ]
 }
