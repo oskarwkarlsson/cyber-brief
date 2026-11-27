@@ -1,6 +1,6 @@
 {
- "last_check": "2026-11-27T00:30:00+01:00",
- "last_daily": "2026-11-26T06:30:00+01:00",
+ "last_check": "2026-11-27T06:30:00+01:00",
+ "last_daily": "2026-11-27T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
   "CVE-2026-109619",
@@ -1267,7 +1267,26 @@
   "Intraday 2026-11-27-0030 silent",
   "THN ThreatsDay Nov 26",
   "OpenAI GPT-6.2 Astra usage limits bug",
-  "malwrhunterteam amnesia panel"
+  "malwrhunterteam amnesia panel",
+  "Daily 2026-11-27",
+  "SleeperWidget Microsoft Edge 250 extensions",
+  "Rapid7 exposed Ollama 20354 hosts",
+  "VulnCheck credential harvesting 1756 AI creds",
+  "SilentNet Minecraft Polygon C2",
+  "Guardio CartJacked 1 in 195 shops",
+  "Check Point Q3 2026 ransomware record 2830",
+  "DOJ 800 defendants scam crackdown Nov 24",
+  "UK National Cyber Action Plan delayed Dec 9",
+  "Inception GoDaddy Paramount Verisk McDonalds Mattel claim",
+  "direwolf Wolters Kluwer claim",
+  "Whitearmor Eversource claim",
+  "PixelLeaks Monolithic Power Systems claim",
+  "Hyflock Indonesia passport database claim",
+  "HKCERT MongoDB GitLab Nov 26-27",
+  "Black Hat Hunting LANDFALL",
+  "zachxbt Plug ransoming companies",
+  "Guardio Labs new potential",
+  "Microsoft Edge BVR new potential"
  ],
  "pending_leads": [
   "Symantec CyberPower PowerPanel Business DC abuse (security.com, Nov 18)",
