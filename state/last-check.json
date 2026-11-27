@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-27T18:30:00+01:00",
+ "last_check": "2026-11-28T00:30:00+01:00",
  "last_daily": "2026-11-27T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1305,7 +1305,13 @@
   "MEXT procurement breach",
   "WeaveLotus RedOps SOCRadar",
   "Vinci RAT Microsoft Store Setup Assistant",
-  "Matters.AI pre-Series A"
+  "Matters.AI pre-Series A",
+  "Intraday 2026-11-28-0030",
+  "KEV GeoServer CVE-2026-120705 CVE-2026-129243 Nov 27",
+  "KEV Drupal CVE-2026-136716 Nov 27",
+  "pCloud Pass attack Nov 27",
+  "Boston Scientific vishing breach 117789",
+  "troyhunt weekly video Nov 27"
  ],
  "pending_leads": [
   "Symantec CyberPower PowerPanel Business DC abuse (security.com, Nov 18)",
