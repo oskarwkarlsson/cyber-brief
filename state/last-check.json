@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-27T06:30:00+01:00",
+ "last_check": "2026-11-27T12:30:00+01:00",
  "last_daily": "2026-11-27T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1286,7 +1286,19 @@
   "Black Hat Hunting LANDFALL",
   "zachxbt Plug ransoming companies",
   "Guardio Labs new potential",
-  "Microsoft Edge BVR new potential"
+  "Microsoft Edge BVR new potential",
+  "Intraday 2026-11-27-1230",
+  "SAP Project Granite GitHub breach Nov 27",
+  "CVE-2026-99362",
+  "NFS2ROOT",
+  "Cacti 4HTTP2SHELL 1.2.31 guest zero-day",
+  "SoftwareOK Q-Dir DesktopOK trojanized RAT",
+  "myColorado 100k update Nov 27",
+  "Swiss NCSC 4 of 5 AI attacks succeeded SRF",
+  "BSI agentic AI warning Nov 26",
+  "CERT-SE v48",
+  "Windows Server 2025 OOB hotpatch crashes",
+  "WSUS removed Server 2028"
  ],
  "pending_leads": [
   "Symantec CyberPower PowerPanel Business DC abuse (security.com, Nov 18)",
