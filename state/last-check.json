@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-27T12:30:00+01:00",
+ "last_check": "2026-11-27T18:30:00+01:00",
  "last_daily": "2026-11-27T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1298,7 +1298,14 @@
   "BSI agentic AI warning Nov 26",
   "CERT-SE v48",
   "Windows Server 2025 OOB hotpatch crashes",
-  "WSUS removed Server 2028"
+  "WSUS removed Server 2028",
+  "Intraday 2026-11-27-1830",
+  "Air Force Cloud One breach Reuters",
+  "AFP Forum cyberattack Nov 26",
+  "MEXT procurement breach",
+  "WeaveLotus RedOps SOCRadar",
+  "Vinci RAT Microsoft Store Setup Assistant",
+  "Matters.AI pre-Series A"
  ],
  "pending_leads": [
   "Symantec CyberPower PowerPanel Business DC abuse (security.com, Nov 18)",
