@@ -1,5 +1,5 @@
 {
- "last_check": "2026-11-28T00:30:00+01:00",
+ "last_check": "2026-11-28T06:30:00+01:00",
  "last_daily": "2026-11-27T06:30:00+01:00",
  "seen": [
   "CVE-2026-109618",
@@ -1311,7 +1311,10 @@
   "KEV Drupal CVE-2026-136716 Nov 27",
   "pCloud Pass attack Nov 27",
   "Boston Scientific vishing breach 117789",
-  "troyhunt weekly video Nov 27"
+  "troyhunt weekly video Nov 27",
+  "Intraday 2026-11-28-0630",
+  "Cendyn eInsight CRM breach Nov 20-23",
+  "Rosewood Hotels targeted phishing troyhunt"
  ],
  "pending_leads": [
   "Symantec CyberPower PowerPanel Business DC abuse (security.com, Nov 18)",
